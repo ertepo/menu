@@ -19,20 +19,19 @@
 	<div class="cover-img" style="background-image: url('{{ $section.background_image | relURL }}'); opacity: {{ $bg_img_opacity }}; background-size: {{ $bg_img_size }}; background-repeat: {{ $bg_img_repeat }}; background-position: {{ $bg_img_position }}"></div>
 	{{ end }}
 
-	{{ if or $section.title $section.subtitle }}
-	<div class="container container--medium{{ if or (eq $feature_padding_y "small") (eq $feature_padding_y "medium") }} mb-5{{ end }}{{ if eq $feature_padding_y "large" }} mb-4{{ end }}{{ if eq $align_x "center" }} text-center{{ end }}{{ if eq $align_x "right" }} text-right{{ end }}">
-		{{ if $section.subtitle }}
-		<div class="section__subtitle">{{ $section.subtitle }}</div>
+	{{ if or $section.titletle }}
+	<div class="container cm{{ if or (eq $feature_padding_y "small") (eq $feature_padding_y "medium") }} mb-5{{ end }}{{ if eq $feature_padding_y "large" }} mb-4{{ end }}{{ if eq $align_x "center" }} text-center{{ end }}{{ if eq $align_x "right" }} text-right{{ end }}">
+		{{ if $section.subt
+		<div class="section$section.subtitle }}</div>
 		{{ end }}
-		{{ if $section.title }}
-		<h2 class="section__title mt-0">{{ $section.title }}</h2>
+		{{ if $section.titl
+		<h2 class="section_ $section.title }}</h2>
 		{{ end }}
 	</div>
 	{{ end }}
 
-	{{ if $section.features }}
-	<div class="container">
-		{{ range $feature := $section.features }}
+	{{ if $section.features
+	<div class="container">		{{ range $feature :ures }}
 			{{ $include_dict := dict "section" $section "feature" $feature }}
 			{{ partial "feature.html" $include_dict }}
 		{{ end }}
