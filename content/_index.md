@@ -53,7 +53,7 @@ sections:
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium
-    grid_gap_vert: small
+    grid_gap_vert: medium
   - type: features_section
     title: My services
     subtitle: What I do
