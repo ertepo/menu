@@ -1,6 +1,54 @@
 ---
 title: Home
 sections:
+  - type: grid_section
+    subtitle: il nostro
+    align: center
+    grid_items:
+      - image_alt: Logo 1
+        image_align: center
+        title: Bruschette
+        subtitle: Aglio e olio
+        title_align: left
+        price: '100'
+      - image_alt: Logo 2
+        image_align: center
+        title: Pasta 1
+      - title: Caciocavallo
+        price: '15'
+        subtitle: formaggio a pasta dura
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - image: images/logo-3.svg
+        image_alt: Logo 3
+        image_align: center
+      - image: images/logo-4.svg
+        image_alt: Logo 4
+        image_align: center
+      - image: images/logo-5.svg
+        image_alt: Logo 5
+        image_align: center
+      - image: images/logo-6.svg
+        image_alt: Logo 6
+        image_align: center
+      - image: images/logo-7.svg
+        image_alt: Logo 7
+        image_align: center
+      - image: images/logo-8.svg
+        image_alt: Logo 8
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    title: MENÙ
   - type: hero_section
     title: 'Hi, I’m Alyvia. I help my clients succeed online.'
     subtitle: >-
@@ -80,54 +128,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - type: grid_section
-    subtitle: il nostro
-    align: center
-    grid_items:
-      - image_alt: Logo 1
-        image_align: center
-        title: Bruschette
-        subtitle: Aglio e olio
-        title_align: left
-        price: '100'
-      - image_alt: Logo 2
-        image_align: center
-        title: Pasta 1
-      - title: Caciocavallo
-        price: '15'
-        subtitle: formaggio a pasta dura
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-        image_align: center
-      - image: images/logo-4.svg
-        image_alt: Logo 4
-        image_align: center
-      - image: images/logo-5.svg
-        image_alt: Logo 5
-        image_align: center
-      - image: images/logo-6.svg
-        image_alt: Logo 6
-        image_align: center
-      - image: images/logo-7.svg
-        image_alt: Logo 7
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Logo 8
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    title: MENÙ
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
