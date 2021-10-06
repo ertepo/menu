@@ -1450,7 +1450,7 @@ models:
         description: The subtitle of the item displayed below the title
       - type: string
         name: price
-        label: Title
+        label: Price
         description: The title of the item
       - type: enum
         name: title_align
