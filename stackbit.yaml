@@ -1448,6 +1448,7 @@ models:
         name: subtitle
         label: Subtitle
         description: The subtitle of the item displayed below the title
+      - 
       - type: enum
         name: title_align
         label: 'Title, subtitle alignment'
