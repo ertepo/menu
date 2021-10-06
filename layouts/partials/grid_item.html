@@ -78,7 +78,7 @@
 						{{ end }}
 					{{ end }}
 					{{ if $item.price }}
-					<p class="item__price{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">
+					<span class="item__price{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">
 						{{ $item.price }}
 					</p>
                     {{ end }}
