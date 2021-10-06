@@ -77,16 +77,16 @@
 						<h2 class="item__title{{ if eq $columns "two" }} h3{{ end }}{{ if eq $columns "three" }} h4{{ end }}{{ if eq $columns "four" }} h5{{ end }}{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">{{ $item.title }}</h2>
 						{{ end }}
 					{{ end }}
-					{{ if $item.subtitle }}
+					{{ if $item.price }}
+					<p class="item__price{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">
+						{{ $item.price }}
+					</p>
+					{{ end }}{{ if $item.subtitle }}
 					<p class="item__subtitle{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">
 						{{ $item.subtitle }}
 					</p>
                     {{ end }}
-                    {{ if $item.price }}
-					<p class="item__price{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">
-						{{ $item.price }}
-					</p>
-					{{ end }}
+                    
 					{{ if $item.content }}
 					<div class="item__copy{{ if eq $content_align_x "center" }} text-center{{ end }}{{ if eq $content_align_x "right" }} text-right{{ end }}">
 						{{ partial "markdownify-block" $item.content }}
