@@ -112,7 +112,7 @@ sections:
         image_alt: Logo 8
         image_align: center
       - title: Caciocavallo
-        price: lorem-ipsum
+        price: '15'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
