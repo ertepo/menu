@@ -113,7 +113,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-    title: MEN
+    title: MENÙ
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
