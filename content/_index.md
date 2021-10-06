@@ -89,6 +89,7 @@ sections:
         title: Bruschette
         subtitle: Aglio e olio
         title_align: left
+        price: '100'
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
