@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: grid_section
     subtitle: i nostri
-    align: right
+    align: center
     grid_items:
       - image_alt: Logo 1
         image_align: center
