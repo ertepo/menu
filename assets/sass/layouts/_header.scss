@@ -54,7 +54,7 @@
 	.navbar__scroller {
 		height: 100%;
 		overflow-y: auto;
-		position: relative;
+		position: sticky;
 	}
 
 	.navbar__inner {
