@@ -28,9 +28,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - image: images/logo-4.svg
-        image_alt: Logo 4
-        image_align: center
       - image: images/logo-5.svg
         image_alt: Logo 5
         image_align: center
