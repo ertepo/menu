@@ -81,7 +81,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Trusted by Companies Big and Small
+    title: Il nostro Menu
     subtitle: Who I work with
     align: center
     grid_items:
