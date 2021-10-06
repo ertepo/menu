@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Il nostro Men
 sections:
   - type: grid_section
     subtitle: i nostri
