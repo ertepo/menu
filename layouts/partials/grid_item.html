@@ -70,18 +70,18 @@
 			{{ if $has_text }}
 			<div class="{{ if $is_horiz }}cell-12{{ end }}{{ if and $is_horiz (eq $image_width "twenty-five") }} cell-md-9{{ end }}{{ if and $is_horiz (eq $image_width "thirty-three") }} cell-md-8{{ end }}{{ if and $is_horiz (eq $image_width "fourty") }} cell-md-7{{ end }}{{ if and $is_horiz (eq $image_width "fifty") }} cell-md-6{{ end }}{{ if and $is_horiz (eq $image_width "sixty") }} cell-md-5{{ end }}{{ if and $has_image (eq $image_pos "right") }} order-md-first{{ end }}{{ if and $has_image (eq $image_pos "bottom") }} order-first{{ end }}{{ if and (and $is_card (eq $image_pos "bottom")) (eq $image_has_padding false) }} mb-auto{{ end }}">
 				<div class="item__body{{ if and $has_image $is_card_no_padding }} p-3{{ end }}{{ if and $has_image $is_card_no_padding }} px-sm-4{{ end }}{{ if and (and $has_image $is_card_no_padding) (ne $image_pos "bottom") }} pb-sm-4{{ end }}{{ if and (and $has_image $is_card_no_padding) (eq $image_pos "bottom") }} pt-sm-4{{ end }}{{ if and (and $has_image $is_card_no_padding) $is_horiz }} py-md-4{{ end }}{{ if and (and $has_image $is_card_no_padding) (eq $image_pos "left") }} pr-md-4{{ end }}{{ if and (and $has_image $is_card_no_padding) (eq $image_pos "left") }} pl-md-3{{ end }}{{ if and (and $has_image $is_card_no_padding) (eq $image_pos "right") }} pl-md-4{{ end }}{{ if and (and $has_image $is_card_no_padding) (eq $image_pos "right") }} pr-md-3{{ end }}">
-					{{ if $item.title }}
+					{{ if $item.price }}
+					<span class="item__price{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">
+						{{ $item.price }}
+                    </span>
+                    {{ end }}{{ if $item.title }}
 						{{ if $section.title }}
 						<h3 class="item__title{{ if eq $columns "two" }} h3{{ end }}{{ if eq $columns "three" }} h4{{ end }}{{ if eq $columns "four" }} h5{{ end }}{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">{{ $item.title }}</h3>
 						{{ else }}
 						<h2 class="item__title{{ if eq $columns "two" }} h3{{ end }}{{ if eq $columns "three" }} h4{{ end }}{{ if eq $columns "four" }} h5{{ end }}{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">{{ $item.title }}</h2>
 						{{ end }}
 					{{ end }}
-					{{ if $item.price }}
-					<span class="item__price{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">
-						{{ $item.price }}
-                    </span>
-                    {{ end }}
+					
                     {{ if $item.subtitle }}
 					<p class="item__subtitle{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">
 						{{ $item.subtitle }}
