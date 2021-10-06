@@ -81,7 +81,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    subtitle: Who I work with
+    subtitle: il nostro
     align: center
     grid_items:
       - image_alt: Logo 1
