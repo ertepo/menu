@@ -74,7 +74,8 @@
 					<span class="item__price{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">
 						{{ $item.price }}
                     </span>
-                    {{ end }}{{ if $item.title }}
+                    {{ end }}
+                    {{ if $item.title }}
 						{{ if $section.title }}
 						<h3 class="item__title{{ if eq $columns "two" }} h3{{ end }}{{ if eq $columns "three" }} h4{{ end }}{{ if eq $columns "four" }} h5{{ end }}{{ if eq $title_align_x "center" }} text-center{{ end }}{{ if eq $title_align_x "right" }} text-right{{ end }}">{{ $item.title }}</h3>
 						{{ else }}
