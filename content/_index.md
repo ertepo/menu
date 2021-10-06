@@ -30,7 +30,7 @@ sections:
         image_has_padding: false
     grid_cols: four
     grid_gap_horiz: medium
-    grid_gap_vert: small
+    grid_gap_vert: large
     title: ANTIPASTI
   - type: hero_section
     title: 'Hi, I’m Alyvia. I help my clients succeed online.'
