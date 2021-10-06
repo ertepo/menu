@@ -29,7 +29,7 @@ sections:
         image_align: left
         image_has_padding: false
     grid_cols: four
-    grid_gap_horiz: large
+    grid_gap_horiz: small
     grid_gap_vert: small
     title: ANTIPASTI
   - type: hero_section
