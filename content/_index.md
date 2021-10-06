@@ -209,7 +209,7 @@ sections:
   - title: MENÙ
     subtitle: il nostro
     actions:
-      - label: lorem-ipsum
+      - label: ciao
         url: '#'
         style: link
         has_icon: false
