@@ -90,7 +90,7 @@ sections:
         image_align: center
         title: Bruschette
         subtitle: Aglio e olio
-        title_align: right
+        title_align: left
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
