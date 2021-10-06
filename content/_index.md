@@ -90,8 +90,7 @@ sections:
         subtitle: Aglio e olio
         title_align: left
         price: '100'
-      - image: images/logo-2.svg
-        image_alt: Logo 2
+      - image_alt: Logo 2
         image_align: center
         title: Pasta 1
       - image: images/logo-3.svg
