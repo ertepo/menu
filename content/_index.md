@@ -113,7 +113,7 @@ sections:
         image_align: center
       - title: Caciocavallo
         price: '15'
-        subtitle: lorem-ipsum
+        subtitle: formaggio a pasta dura
         title_align: left
         content: >-
           ## Lorem ipsum
