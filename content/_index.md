@@ -32,7 +32,7 @@ sections:
     grid_gap_horiz: small
     grid_gap_vert: small
     title: ANTIPASTI
-    enable_cards: true
+    enable_cards: false
   - type: hero_section
     title: 'Hi, I’m Alyvia. I help my clients succeed online.'
     subtitle: >-
