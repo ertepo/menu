@@ -81,7 +81,6 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: MEN
     subtitle: Who I work with
     align: center
     grid_items:
