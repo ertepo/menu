@@ -1447,7 +1447,8 @@ models:
       - type: string
         name: price
         label: Price
-        description: The price of the item- type: string
+        description: The price of the item
+      - type: string
         name: subtitle
         label: Subtitle
         description: The subtitle of the item displayed below the title
