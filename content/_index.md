@@ -85,8 +85,7 @@ sections:
     subtitle: Who I work with
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
+      - image_alt: Logo 1
         image_align: center
         title: Bruschette
         subtitle: Aglio e olio
