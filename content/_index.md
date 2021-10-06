@@ -207,7 +207,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - title: MENÙ
-    subtitle: lorem-ipsum
+    subtitle: il nostro
     actions: []
     blog_feed_cols: three
     enable_cards: false
