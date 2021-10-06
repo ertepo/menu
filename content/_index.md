@@ -49,7 +49,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-    title: PRIMI
+    title: ANTIPASTI
   - type: hero_section
     title: 'Hi, I’m Alyvia. I help my clients succeed online.'
     subtitle: >-
