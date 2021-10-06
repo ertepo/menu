@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: grid_section
-    subtitle: il nostro
+    subtitle: i nostri
     align: center
     grid_items:
       - image_alt: Logo 1
