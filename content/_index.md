@@ -93,6 +93,7 @@ sections:
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
+        title: Pasta 1
       - image: images/logo-3.svg
         image_alt: Logo 3
         image_align: center
