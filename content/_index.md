@@ -14,7 +14,7 @@ sections:
       - image_alt: Logo 2
         image_align: center
         title: Pasta 1
-        price: '1'
+        price: '10'
       - title: Caciocavallo
         price: '15'
         subtitle: formaggio a pasta dura
