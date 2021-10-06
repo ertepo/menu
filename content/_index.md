@@ -1,5 +1,5 @@
 ---
-title: Il nostro Men
+title: Il nostro Menu
 sections:
   - type: grid_section
     subtitle: i nostri
