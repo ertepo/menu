@@ -33,7 +33,7 @@ sections:
     grid_gap_vert: small
     title: ANTIPASTI
     enable_cards: false
-    padding_bottom: large
+    padding_bottom: none
   - type: hero_section
     title: 'Hi, I’m Alyvia. I help my clients succeed online.'
     subtitle: >-
