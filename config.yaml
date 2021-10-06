@@ -14,7 +14,7 @@ params:
     primary_nav_links:
       - label: FAQ
         url: '#antipasti'
-        style: link
+        style: primary
       - label: About
         url: /about
         style: link
