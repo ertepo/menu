@@ -1451,7 +1451,7 @@ models:
       - type: string
         name: price
         label: Price
-        description: The title of the item
+        description: The price of the item
       - type: enum
         name: title_align
         label: 'Title, subtitle alignment'
