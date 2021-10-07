@@ -200,7 +200,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Classico
-        price: 
+        price: 8
         subtitle:
         title_align: left
         content_align: left
