@@ -92,7 +92,7 @@ sections:
         image_has_padding: false
       - title: Pulled Pork
         price: 13
-        subtitle: 600/1200 g
+        subtitle: rucola e salsa yogurt
         title_align: left
         content_align: left
         actions: []
