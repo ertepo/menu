@@ -396,7 +396,7 @@ sections:
     subtitle: pizze
     actions: []
     grid_items:
-      - title: 
+      - title: Fornarina
         price: 
         subtitle:
         title_align: left
