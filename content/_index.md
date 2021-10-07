@@ -424,7 +424,7 @@ sections:
         image_has_padding: false
       - title:Tartufella
         price: 9
-        subtitle: Mozzarella
+        subtitle: mozzarella, salsiccia, porcini, tartufo ed erba cipollina
         title_align: left
         content_align: left
         actions: []
