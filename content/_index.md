@@ -34,7 +34,7 @@ sections:
     title: PRIMI
     enable_cards: false
     padding_bottom: none
-  - title: lorem-ipsum
+  - title: SECONDI
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
