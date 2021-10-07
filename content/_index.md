@@ -78,7 +78,7 @@ sections:
     actions: []
     grid_items:
       - title: Black Angus
-        price: lorem-ipsum
+        price: 3,5/hg
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
