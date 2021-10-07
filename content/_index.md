@@ -71,7 +71,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: PANINI
-    subtitle: i nostri
+    subtitle: panini
     actions: []
     grid_items: []
     grid_cols: three
