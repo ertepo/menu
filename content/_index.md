@@ -77,19 +77,6 @@ sections:
     subtitle: secondi
     actions: []
     grid_items:
-      - title: Spaghetti
-        price: null
-        subtitle: alla Carbonara XL (cottura 20 min)
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
       - image_alt: Logo 2
         image_align: center
         title: Garganelli
