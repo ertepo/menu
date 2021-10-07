@@ -10,7 +10,7 @@ sections:
         title: Tagliatelle all'anatra
         subtitle: Aglio e olio
         title_align: left
-        price: '9,00'
+        price: '9'
       - image_alt: Logo 2
         image_align: center
         title: Pasta 1
