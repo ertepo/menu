@@ -130,7 +130,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Agnello Scottadito
-        price: 3,5/hg
+        price: '12'
         subtitle: 600/1200 g
         title_align: left
         content_align: left
