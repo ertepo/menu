@@ -144,7 +144,7 @@ sections:
         image_has_padding: false
       - title: 
         price: 
-        subtitle: 600/1200 g
+        subtitle:
         title_align: left
         content_align: left
         actions: []
