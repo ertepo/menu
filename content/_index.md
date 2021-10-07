@@ -77,13 +77,8 @@ sections:
     subtitle: secondi
     actions: []
     grid_items:
-      - image_alt: Logo 1
-        image_align: center
-        title: Black angus
-        title_align: left
-        price: '3,5/etto'
       - title: Spaghetti
-        price: 
+        price: null
         subtitle: alla Carbonara XL (cottura 20 min)
         title_align: left
         content_align: left
