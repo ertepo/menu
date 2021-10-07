@@ -253,7 +253,7 @@ sections:
         image_has_padding: false
       - title: El Toño
         price: 8
-        subtitle:
+        subtitle: impasto di salsiccia
         title_align: left
         content_align: left
         actions: []
