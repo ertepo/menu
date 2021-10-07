@@ -201,7 +201,7 @@ sections:
         image_has_padding: false
       - title: Classico
         price: 8''
-        subtitle:
+        subtitle: manzo
         title_align: left
         content_align: left
         actions: []
