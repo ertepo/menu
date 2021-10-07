@@ -310,7 +310,7 @@ sections:
     grid_items:
       - title:
         price: 
-        subtitle: manzo 200gr, zucchine grigliate, stracciatella, patate arrosto
+        subtitle:
         title_align: left
         content_align: left
         actions: []
