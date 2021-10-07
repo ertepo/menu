@@ -28,9 +28,9 @@ sections:
         title: Garganelli
         price: '10'
         subtitle: 'cipolla di tropea, guanciale, pomodorini e prezzemolo'
-      - title: Cappellacci ripieni
+      - title: Ravioli ripieni
         price: '8'
-        subtitle: 'di carne con salsa datterino, bufala e basilico'
+        subtitle: di ricotta e porcini con ragù di coniglio ed erba cipollina
         title_align: left
         content_align: left
         actions: []
@@ -41,9 +41,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Ravioli ripieni
+      - title: Cappellacci ripieni
         price: '8'
-        subtitle: di ricotta e porcini con ragù di coniglio ed erba cipollina
+        subtitle: 'di carne con salsa datterino, bufala e basilico'
         title_align: left
         content_align: left
         actions: []
