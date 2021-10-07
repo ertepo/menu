@@ -42,7 +42,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Ravioli ripieni
-        price: lorem-ipsum
+        price: '8'
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
