@@ -77,19 +77,6 @@ sections:
     subtitle: secondi
     actions: []
     grid_items:
-      - title: Gnocchi
-        price: '7'
-        subtitle: asparagi e guanciale
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
       - title: Cappellacci ripieni
         price: '8'
         subtitle: 'di carne con salsa datterino, bufala e basilico'
