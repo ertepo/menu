@@ -14,7 +14,7 @@ sections:
         image_align: center
         title: Garganelli
         price: '10'
-        subtitle: ciplo
+        subtitle: 'cipolla di tropea,'
       - title: Caciocavallo
         price: '15'
         subtitle: formaggio a pasta dura
