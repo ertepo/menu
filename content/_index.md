@@ -240,7 +240,7 @@ sections:
         image_has_padding: false  
       - title: Parmigianotto Veggy
         price: 8
-        subtitle:
+        subtitle: melanzane fritte, mozzarella di bufala
         title_align: left
         content_align: left
         actions: []
