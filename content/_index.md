@@ -76,7 +76,6 @@ sections:
   - title: SECONDI
     subtitle: secondi
     actions: []
-    grid_items: []
     grid_items:
       - image_alt: Logo 1
         image_align: center
