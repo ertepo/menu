@@ -264,9 +264,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: El diablo 8
+      - title: El diablo
         price: 8
-        subtitle:
+        subtitle: 
         title_align: left
         content_align: left
         actions: []
