@@ -334,7 +334,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title:Meringa
+      - title: Meringa
         price: 
         subtitle:
         title_align: left
