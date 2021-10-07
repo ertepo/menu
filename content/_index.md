@@ -239,7 +239,7 @@ sections:
         image_align: left
         image_has_padding: false  
       - title: Parmigianotto Veggy
-        price: 
+        price: 8
         subtitle:
         title_align: left
         content_align: left
