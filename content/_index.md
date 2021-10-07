@@ -422,7 +422,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title:
+      - title:Tartufella
         price: 
         subtitle:
         title_align: left
