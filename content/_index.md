@@ -323,7 +323,7 @@ sections:
         image_has_padding: false
       - title: Cantucci
         price: 20
-        subtitle: 
+        subtitle: con bottiglia di visciola 50cl
         title_align: left
         content_align: left
         actions: []
