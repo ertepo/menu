@@ -156,8 +156,8 @@ sections:
         image_align: left
         image_has_padding: false    
       - title: Pentolaccia di Carne
-        price: '13'
-        subtitle:
+        price: '14'
+        subtitle: stufati di vitello, pollo, maiale
         title_align: left
         content_align: left
         actions: []
