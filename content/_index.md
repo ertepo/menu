@@ -81,7 +81,7 @@ sections:
         image_align: center
         title: Black angus
         title_align: left
-        price: '3,5 hg'
+        price: '3,5'
       - title: Spaghetti
         price: 7-9
         subtitle: alla Carbonara XL (cottura 20 min)
