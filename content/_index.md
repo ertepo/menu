@@ -17,7 +17,7 @@ sections:
         subtitle: 'cipolla di tropea, guanciale, tropea e prezzemolo'
       - title: Cappellacci ripieni
         price: '8'
-        subtitle: formaggio a pasta dura
+        subtitle: 'di carne con salsa datterina, bufala e basilico'
         title_align: left
         content_align: left
         actions: []
