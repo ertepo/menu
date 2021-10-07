@@ -16,7 +16,7 @@ sections:
         price: '10'
         subtitle: 'cipolla di tropea, guanciale, tropea e prezzemolo'
       - title: Cappellacci ripieni
-        price: '15'
+        price: '8'
         subtitle: formaggio a pasta dura
         title_align: left
         content_align: left
