@@ -186,7 +186,7 @@ sections:
     subtitle: hamburger
     actions: []
     grid_items:
-      - title: 
+      - title: Ciccione
         price: 
         subtitle:
         title_align: left
