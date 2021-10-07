@@ -77,7 +77,7 @@ sections:
     subtitle: secondi
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Black Angus
         price: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
