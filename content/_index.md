@@ -186,8 +186,8 @@ sections:
     subtitle: hamburger
     actions: []
     grid_items:
-      - title: Pentolaccia di Carne
-        price: '14'
+      - title: 
+        price: 
         subtitle: stufati di vitello, pollo, maiale e salsiccia con pomodorini e olive nere
         title_align: left
         content_align: left
