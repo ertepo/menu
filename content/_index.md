@@ -12,7 +12,7 @@ sections:
         price: '9'
       - image_alt: Logo 2
         image_align: center
-        title: Pasta 1
+        title: Garganelli
         price: '10'
       - title: Caciocavallo
         price: '15'
