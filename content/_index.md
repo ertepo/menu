@@ -77,19 +77,6 @@ sections:
     subtitle: secondi
     actions: []
     grid_items:
-      - title: Ravioli ripieni
-        price: '8'
-        subtitle: di ricotta e porcini con ragù di coniglio ed erba cipollina
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
       - title: Gnocchi
         price: '7'
         subtitle: asparagi e guanciale
