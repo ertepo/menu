@@ -450,7 +450,7 @@ sections:
         image_has_padding: false
       - title: Andrea
         price: 8
-        subtitle: mozzarella, prosciutto crudo, rucola
+        subtitle: mozzarella, prosciutto crudo, rucola, pomodorini,
         title_align: left
         content_align: left
         actions: []
