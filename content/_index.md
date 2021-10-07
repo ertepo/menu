@@ -266,7 +266,7 @@ sections:
         image_has_padding: false
       - title: El diablo
         price: 8
-        subtitle: manzo 200gr, ventracina, mozzarella
+        subtitle: manzo 200gr, ventracina, mozzarella di bufala
         title_align: left
         content_align: left
         actions: []
