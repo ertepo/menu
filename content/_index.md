@@ -251,7 +251,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: El To
+      - title: El Toño
         price: 
         subtitle:
         title_align: left
