@@ -104,7 +104,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Chicken and Pepper
-        price: 12
+        price: '12'
         subtitle: straccetti di pollo fritti, patate al pepe con salsa ai peperoni arrosto e salsa yogurt
         title_align: left
         content_align: left
@@ -117,7 +117,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Grigliata mista
-        price: 13
+        price: '13'
         subtitle: 
         title_align: left
         content_align: left
