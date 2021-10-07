@@ -264,7 +264,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: 
+      - title: El diablo 8
         price: 
         subtitle:
         title_align: left
