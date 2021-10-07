@@ -157,7 +157,7 @@ sections:
         image_has_padding: false    
       - title: Pentolaccia di Carne
         price: '14'
-        subtitle: stufati di vitello, pollo, maiale
+        subtitle: stufati di vitello, pollo, maiale e salsiccia con pomodorini e olive nere
         title_align: left
         content_align: left
         actions: []
