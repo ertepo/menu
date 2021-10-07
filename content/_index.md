@@ -10,14 +10,9 @@ sections:
         title: Tagliatelle all'anatra
         title_align: left
         price: '9'
-      - image_alt: Logo 2
-        image_align: center
-        title: Garganelli
-        price: '10'
-        subtitle: 'cipolla di tropea, guanciale, pomodorini e prezzemolo'
-      - title: Cappellacci ripieni
-        price: '8'
-        subtitle: 'di carne con salsa datterino, bufala e basilico'
+      - title: Spaghetti
+        price: 7-9
+        subtitle: alla Carbonara XL (cottura 20 min)
         title_align: left
         content_align: left
         actions: []
@@ -28,9 +23,14 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Spaghetti
-        price: 7-9
-        subtitle: alla Carbonara XL (cottura 20 min)
+      - image_alt: Logo 2
+        image_align: center
+        title: Garganelli
+        price: '10'
+        subtitle: 'cipolla di tropea, guanciale, pomodorini e prezzemolo'
+      - title: Cappellacci ripieni
+        price: '8'
+        subtitle: 'di carne con salsa datterino, bufala e basilico'
         title_align: left
         content_align: left
         actions: []
