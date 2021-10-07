@@ -279,7 +279,7 @@ sections:
         image_has_padding: false
       - title: Vegetariano
         price: 7
-        subtitle: spinaci, zucchine e melanzane alla griglia, confit
+        subtitle: spinaci, zucchine e melanzane alla griglia, pomodorini confit e stracciatella
         title_align: left
         content_align: left
         actions: []
