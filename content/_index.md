@@ -336,7 +336,7 @@ sections:
         image_has_padding: false
       - title: Meringa
         price: 1,5
-        subtitle:
+        subtitle: con panna e crema di pistacchio o frutti si bosco
         title_align: left
         content_align: left
         actions: []
