@@ -95,24 +95,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - image_alt: []
-        image_align: center
-        title: Black angus
-        title_align: left
-        price: '3,5/etto'
-      - title: Spaghetti
-        price: 
-        subtitle: alla Carbonara XL (cottura 20 min)
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
       - image_alt: Logo 2
         image_align: center
         title: Garganelli
