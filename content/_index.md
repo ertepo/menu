@@ -43,7 +43,7 @@ sections:
         image_has_padding: false
       - title: Ravioli ripieni
         price: '8'
-        subtitle: lorem-ipsum
+        subtitle: di ricotta e porcini con ragù di coniglio ed erba cipollina
         title_align: left
         content_align: left
         actions: []
