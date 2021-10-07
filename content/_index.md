@@ -279,7 +279,7 @@ sections:
         image_has_padding: false
       - title: Vegetariano
         price: 7
-        subtitle:
+        subtitle: 
         title_align: left
         content_align: left
         actions: []
