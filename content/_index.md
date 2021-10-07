@@ -95,7 +95,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        - image_alt: Logo 1
+    - image_alt: Logo 1
         image_align: center
         title: Black angus
         title_align: left
