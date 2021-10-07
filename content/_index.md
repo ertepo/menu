@@ -310,7 +310,7 @@ sections:
     grid_items:
       - title: Ci
         price: '8
-        subtitle:
+                subtitle:
         title_align: left
         content_align: left
         actions: []
