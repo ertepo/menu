@@ -253,7 +253,7 @@ sections:
         image_has_padding: false
       - title: El Toño
         price: 8
-        subtitle: impasto di salsiccia 100gr, crema di asparagi
+        subtitle: impasto di salsiccia 100gr, crema di asparagi, ragù bianco e ricotta salata
         title_align: left
         content_align: left
         actions: []
