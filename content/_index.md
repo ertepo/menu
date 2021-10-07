@@ -79,7 +79,7 @@ sections:
     grid_items:
       - title: Black Angus
         price: 3,5/hg
-        subtitle: lorem-ipsum
+        subtitle: 600/1200 
         title_align: left
         content_align: left
         actions: []
