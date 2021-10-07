@@ -213,7 +213,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Norcino
-        price: 
+        price: 9
         subtitle:
         title_align: left
         content_align: left
