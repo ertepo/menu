@@ -347,7 +347,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title:
+      - title: Cialda Croccante
         price: 
         subtitle:
         title_align: left
