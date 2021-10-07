@@ -411,7 +411,7 @@ sections:
         image_has_padding: false
       - title: Garganello
         price: 7
-        subtitle:
+        subtitle: mozzarella, cipolla di tropea, guanciale, pomodorini, prezzemolo
         title_align: left
         content_align: left
         actions: []
