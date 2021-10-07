@@ -308,8 +308,8 @@ sections:
     subtitle: panini
     actions: []
     grid_items:
-      - title: Ciccione
-        price: '8'
+      - title:
+        price: 
         subtitle: manzo 200gr, zucchine grigliate, stracciatella, patate arrosto
         title_align: left
         content_align: left
