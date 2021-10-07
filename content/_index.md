@@ -7,7 +7,7 @@ sections:
     grid_items:
       - image_alt: Logo 1
         image_align: center
-        title: Bruschette
+        title: Tagliatelle all'anatra
         subtitle: Aglio e olio
         title_align: left
         price: '100'
