@@ -423,8 +423,8 @@ sections:
         image_align: left
         image_has_padding: false
       - title:Tartufella
-        price: 
-        subtitle:
+        price: 9
+        subtitle: Mozzarella
         title_align: left
         content_align: left
         actions: []
