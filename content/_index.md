@@ -83,7 +83,7 @@ sections:
         title_align: left
         price: '3,5/etto'
       - title: Spaghetti
-        price: 7-9
+        price: 
         subtitle: alla Carbonara XL (cottura 20 min)
         title_align: left
         content_align: left
