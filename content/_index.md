@@ -31,7 +31,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: small
-    title: ANTIPASTI
+    title: PRIMI
     enable_cards: false
     padding_bottom: none
   - title: lorem-ipsum
