@@ -105,7 +105,7 @@ sections:
         image_has_padding: false
       - title: Chicken and Pepper
         price: 12
-        subtitle: 600/1200 g
+        subtitle: straccetti di pollo fritti, patate al pepe con salsa ai peperoni
         title_align: left
         content_align: left
         actions: []
