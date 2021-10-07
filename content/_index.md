@@ -226,7 +226,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-  - title: lorem-ipsum
+  - title: HAMBURGER
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
