@@ -8,7 +8,6 @@ sections:
       - image_alt: Logo 1
         image_align: center
         title: Tagliatelle all'anatra
-        subtitle: Aglio e olio
         title_align: left
         price: '9'
       - image_alt: Logo 2
