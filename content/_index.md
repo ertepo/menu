@@ -238,7 +238,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false  
-      - title: 
+      - title: Parmigianotto Veggy
         price: 
         subtitle:
         title_align: left
