@@ -15,7 +15,7 @@ sections:
         title: Garganelli
         price: '10'
         subtitle: 'cipolla di tropea, guanciale, tropea e prezzemolo'
-      - title: Caciocavallo
+      - title: Cappellacci ripieni
         price: '15'
         subtitle: formaggio a pasta dura
         title_align: left
