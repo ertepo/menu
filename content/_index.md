@@ -435,8 +435,8 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title:
-        price: 
+      - title: Asparagina
+        price: 7
         subtitle:
         title_align: left
         content_align: left
