@@ -35,7 +35,7 @@ sections:
     enable_cards: false
     padding_bottom: none
   - title: SECONDI
-    subtitle: lorem-ipsum
+    subtitle: secondi
     actions: []
     grid_items: []
     grid_cols: three
