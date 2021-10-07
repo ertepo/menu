@@ -308,8 +308,8 @@ sections:
     subtitle: panini
     actions: []
     grid_items:
-      - title: Ci
-        price: '8
+      - title: 
+        price: 
         subtitle:
         title_align: left
         content_align: left
