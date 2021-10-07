@@ -116,7 +116,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Black Angus
+      - title: Grigliata mista
         price: 3,5/hg
         subtitle: 600/1200 g
         title_align: left
