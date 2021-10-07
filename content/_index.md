@@ -448,9 +448,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title:Andrea
+      - title: Andrea
         price: 8
-        subtitle: mo
+        subtitle: mozzareòòa
         title_align: left
         content_align: left
         actions: []
