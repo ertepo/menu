@@ -26,7 +26,7 @@ sections:
       - image_alt: Logo 2
         image_align: center
         title: Garganelli
-        price: '10'
+        price: '7'
         subtitle: 'cipolla di tropea, guanciale, pomodorini e prezzemolo'
       - title: Ravioli ripieni
         price: '8'
