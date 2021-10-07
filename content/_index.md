@@ -437,7 +437,7 @@ sections:
         image_has_padding: false
       - title: Asparagina
         price: 7
-        subtitle: mozzarella
+        subtitle: mozzarella,
         title_align: left
         content_align: left
         actions: []
