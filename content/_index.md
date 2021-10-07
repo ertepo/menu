@@ -308,7 +308,7 @@ sections:
     subtitle: panini
     actions: []
     grid_items:
-      - title:
+      - title: TIRAMIS
         price: 
         subtitle:
         title_align: left
