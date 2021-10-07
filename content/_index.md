@@ -214,7 +214,7 @@ sections:
         image_has_padding: false
       - title: Norcino
         price: '9'
-        subtitle: impasto di salsiccia 160gr, porcini
+        subtitle: impasto di salsiccia 160gr, porcini, scamorza, tartufo
         title_align: left
         content_align: left
         actions: []
