@@ -14,7 +14,7 @@ sections:
         image_align: center
         title: Garganelli
         price: '10'
-        subtitle: 'cipolla di tropea, guanciale, tropea e prezzemolo'
+        subtitle: 'cipolla di tropea, guanciale, pomodorini e prezzemolo'
       - title: Cappellacci ripieni
         price: '8'
         subtitle: 'di carne con salsa datterino, bufala e basilico'
