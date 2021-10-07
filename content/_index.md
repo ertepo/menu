@@ -188,7 +188,7 @@ sections:
     grid_items:
       - title: 
         price: 
-        subtitle: stufati di vitello, pollo, maiale e salsiccia con pomodorini e olive nere
+        subtitle:
         title_align: left
         content_align: left
         actions: []
