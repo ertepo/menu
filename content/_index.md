@@ -187,7 +187,7 @@ sections:
     actions: []
     grid_items:
       - title: Ciccione
-        price: 8
+        price: '8'
         subtitle:
         title_align: left
         content_align: left
