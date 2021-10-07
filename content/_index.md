@@ -155,7 +155,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false    
-      - title: Pentochili
+      - title: Pentolaccia di Carne
         price: '13'
         subtitle:
         title_align: left
