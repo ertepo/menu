@@ -349,7 +349,7 @@ sections:
         image_has_padding: false
       - title: Cialda Croccante
         price: 3,5
-        subtitle: con crema chantilly e n
+        subtitle: con crema chantilly e nutella o frutti di bosco
         title_align: left
         content_align: left
         actions: []
