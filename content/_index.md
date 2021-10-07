@@ -91,7 +91,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Pulled Pork
-        price: 13
+        price: '13
         subtitle: rucola e salsa yogurt
         title_align: left
         content_align: left
