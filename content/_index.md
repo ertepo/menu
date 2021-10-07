@@ -397,8 +397,8 @@ sections:
     actions: []
     grid_items:
       - title: Fornarina
-        price: 
-        subtitle:
+        price: 4
+        subtitle: cipolla e rosmarino
         title_align: left
         content_align: left
         actions: []
