@@ -310,7 +310,7 @@ sections:
     grid_items:
       - title: TIRAMISÙ
         price: 3,5
-        subtitle:
+        subtitle: 
         title_align: left
         content_align: left
         actions: []
