@@ -55,7 +55,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Gnocchi
-        price: '8'
+        price: '7'
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
