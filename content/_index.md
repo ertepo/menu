@@ -200,7 +200,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Classico
-        price: 8'
+        price: '8'
         subtitle: manzo 200gr, cheddar, insalata, pomodoro, guanciale
         title_align: left
         content_align: left
