@@ -76,20 +76,7 @@ sections:
   - title: SECONDI
     subtitle: secondi
     actions: []
-    grid_items:
-      - title: Cappellacci ripieni
-        price: '8'
-        subtitle: 'di carne con salsa datterino, bufala e basilico'
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
+    grid_items: []
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
