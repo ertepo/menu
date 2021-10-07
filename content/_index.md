@@ -308,7 +308,7 @@ sections:
     subtitle: panini
     actions: []
     grid_items:
-      - title: TIRAMISÙ
+      - title: Ti
         price: 3,5
         subtitle:
         title_align: left
