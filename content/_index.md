@@ -143,7 +143,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Pentochili
-        price: 13
+        price: '13'
         subtitle:
         title_align: left
         content_align: left
