@@ -572,9 +572,7 @@ sections:
     type: grid_section
   - type: hero_section
     title: Qualcosa di presentazione se si vuole...
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: Bla blablablabalbalbablablablablablablabalblablablablablabalblablaba
     actions:
       - label: Contact Me
         url: /contact
