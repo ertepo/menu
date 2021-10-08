@@ -2,7 +2,7 @@
 title: Il nostro Menu
 sections:
   - type: grid_section
-    subtitle: primi
+    subtitle: i nostri
     align: center
     grid_items:
       - image_alt: Logo 1
