@@ -79,7 +79,7 @@ params:
         icon_position: center
         new_window: true
     content: >-
-      &copy; Alessandro Oncini. Tutti i diritti riservati. This Jamstack site was created with
+      &copy; Alessandro Oncini. Tutti i diritti riservati.
       <a href="https://alessandrooncini.netlify.app"
       target="_blank" rel="noopener">AleOnc</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer"
