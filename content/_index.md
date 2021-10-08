@@ -404,7 +404,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: PIZZE BIANCHE
-    subtitle: pizze
+    subtitle: buone
     actions: []
     grid_items:
       - title: Fornarina
