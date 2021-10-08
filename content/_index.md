@@ -574,7 +574,7 @@ sections:
     title: Qualcosa di presentazione se si vuole...
     subtitle: Bla blablablabalbalbablablablablablablabalblablablablablabalblablaba
     actions:
-      - label: Contact Me
+      - label: Contattami
         url: /contact
         style: primary
     image: images/hero.png
