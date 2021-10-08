@@ -75,6 +75,7 @@ sections:
     padding_bottom: none
     background_image: images/pasta.png
     background_image_opacity: 20
+    background_image_size: contain
   - title: SECONDI
     subtitle: i nostri
     actions: []
