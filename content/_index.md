@@ -722,7 +722,9 @@ sections:
         default_value: Your message
       - input_type: checkbox
         name: consent
-        label: CSono consapevole ceh questo form
+        label: >-
+          Sono consapevole che questo form acquisisce i miei dati e quindi posso
+          essere ricontattato
         is_required: true
     submit_label: Send Message
     align_vert: top
