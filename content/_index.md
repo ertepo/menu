@@ -382,7 +382,7 @@ sections:
     background_color: none
     background_image_opacity: 20
     background_image_size: contain
-    background_image_position: center center
+    background_image_position: right center
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/DOLCI.png
