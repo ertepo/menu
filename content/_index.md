@@ -74,7 +74,7 @@ sections:
     enable_cards: false
     padding_bottom: none
   - title: SECONDI
-    subtitle: secondi
+    subtitle: i nostri
     actions: []
     grid_items:
       - title: Black Angus
