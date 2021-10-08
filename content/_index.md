@@ -572,7 +572,7 @@ sections:
     type: grid_section
   - type: hero_section
     title: Qualcosa di presentazione se si vuole...
-    subtitle: Bla blablablabalbalbablablablablablablabalblablablablablabalblablaba
+    subtitle: Bla blablab
     actions:
       - label: Contattami
         url: /contact
