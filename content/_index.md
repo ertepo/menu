@@ -74,6 +74,7 @@ sections:
     enable_cards: false
     padding_bottom: none
     background_image: images/pasta.png
+    background_image_opacity: 20
   - title: SECONDI
     subtitle: i nostri
     actions: []
