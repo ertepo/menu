@@ -79,9 +79,9 @@ params:
         icon_position: center
         new_window: true
     content: >-
-      &copy; Alessandro Oncini. Tutti i diritti riservati.
-      <a href="https://alessandrooncini.netlify.app"
-      target="_blank" rel="noopener">AleOnc</a>. Create yours <a
+      &copy; <a href="https://alessandrooncini.netlify.app"
+      target="_blank" rel="noopener">AleOnc</a>Alessandro Oncini. Tutti i diritti riservati.
+      . Create yours <a
       href="https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
   domain: 'https://super-eucalyptus-5f9c7.netlify.app'
