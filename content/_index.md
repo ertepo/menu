@@ -309,7 +309,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    background_image_opacity: 50
+    background_image_opacity: 5080
     background_image_size: contain
     background_image_position: center center
     background_image_repeat: no-repeat
