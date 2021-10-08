@@ -726,7 +726,7 @@ sections:
           Sono consapevole che questo form acquisisce i miei dati e quindi posso
           essere ricontattato
         is_required: true
-    submit_label: Send Message
+    submit_label: Invia Messaggio
     align_vert: top
     padding_top: medium
     padding_bottom: medium
