@@ -651,12 +651,10 @@ sections:
     title: Testimonials
     subtitle: Cosa dicono i nostri clienti
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: |
+          A carbonara è bona...
 
-
-          **Hanson Deck,** *App Developer, Studio*
+          **Hanson Deck,** *mangiatore di professione*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
