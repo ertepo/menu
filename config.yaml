@@ -80,7 +80,7 @@ params:
         new_window: true
     content: >-
       &copy; <a href="https://alessandrooncini.netlify.app"
-      target="_blank" rel="noopener">Alessandro Oncini</a>Alessandro Oncini. Tutti i diritti riservati.
+      target="_blank" rel="noopener">Alessandro Oncini</a>. Tutti i diritti riservati.
       . Create yours <a
       href="https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
