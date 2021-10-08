@@ -13,7 +13,7 @@ params:
     has_primary_nav: true
     primary_nav_links:
       - label: Primi
-        url: '/antipasti'
+        url: '/antipasti
         style: link
       - label: About
         url: /about
