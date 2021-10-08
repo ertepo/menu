@@ -187,7 +187,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: HAMBURGER
-    subtitle: hamburger
+    subtitle: zozzi
     actions: []
     grid_items:
       - title: Ciccione
