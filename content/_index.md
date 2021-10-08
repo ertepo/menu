@@ -676,7 +676,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: |
-          Lorem ipsums dfkjasnfsdjhfboabhrfiawuhnraiurhnaoiurhtvaomicumaiojce!
+          Lorem ipsums dfkj
 
           **Gordon Norman,** *Web Designer, Local Business*
         image: images/gordon-norman.png
