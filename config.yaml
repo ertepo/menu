@@ -9,7 +9,7 @@ params:
   header:
     title: Le Tre Botteghe
     logo: images/copertina.png
-    logo_alt: Alyvia logo
+    logo_alt: Logo le tre botteghe
     has_primary_nav: true
     primary_nav_links:
       - label: Primi
