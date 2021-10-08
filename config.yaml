@@ -7,7 +7,7 @@ params:
   mode: light
   base_font: serif
   header:
-    title: Menù del terzo tempo
+    title: Le Tre Botteghe
     logo: images/copertina.png
     logo_alt: Alyvia logo
     has_primary_nav: true
