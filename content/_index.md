@@ -590,7 +590,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: features_section
-    title: My services
+    title: I nostri servizi
     subtitle: What I do
     features:
       - title: Content Creation
