@@ -73,6 +73,7 @@ sections:
     title: PRIMI
     enable_cards: false
     padding_bottom: none
+    background_image: images/pasta.png
   - title: SECONDI
     subtitle: i nostri
     actions: []
