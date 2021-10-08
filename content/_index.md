@@ -78,7 +78,7 @@ sections:
     actions: []
     grid_items:
       - title: Black Angus
-        price: 3,5/hg
+        price: '3,5/hg'
         subtitle: 600/1200 g
         title_align: left
         content_align: left
@@ -105,7 +105,9 @@ sections:
         image_has_padding: false
       - title: Chicken and Pepper
         price: '12'
-        subtitle: straccetti di pollo fritti, patate al pepe con salsa ai peperoni arrosto e salsa yogurt
+        subtitle: >-
+          straccetti di pollo fritti, patate al pepe con salsa ai peperoni
+          arrosto e salsa yogurt
         title_align: left
         content_align: left
         actions: []
@@ -118,7 +120,7 @@ sections:
         image_has_padding: false
       - title: Grigliata mista
         price: '13'
-        subtitle: 
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -131,7 +133,7 @@ sections:
         image_has_padding: false
       - title: Agnello Scottadito
         price: '12'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -144,7 +146,7 @@ sections:
         image_has_padding: false
       - title: Pentochili
         price: '13'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -154,10 +156,12 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false    
+        image_has_padding: false
       - title: Pentolaccia di Carne
         price: '14'
-        subtitle: stufati di vitello, pollo, maiale e salsiccia con pomodorini e olive nere
+        subtitle: >-
+          stufati di vitello, pollo, maiale e salsiccia con pomodorini e olive
+          nere
         title_align: left
         content_align: left
         actions: []
@@ -167,10 +171,10 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false  
+        image_has_padding: false
     grid_cols: three
     grid_gap_vert: small
-    grid_gap_horiz: small
+    grid_gap_horiz: large
     enable_cards: false
     align: center
     padding_top: medium
@@ -188,7 +192,7 @@ sections:
     grid_items:
       - title: Ciccione
         price: '8'
-        subtitle: manzo 200gr, zucchine grigliate, stracciatella, patate arrosto
+        subtitle: 'manzo 200gr, zucchine grigliate, stracciatella, patate arrosto'
         title_align: left
         content_align: left
         actions: []
@@ -201,7 +205,7 @@ sections:
         image_has_padding: false
       - title: Classico
         price: '8'
-        subtitle: manzo 200gr, cheddar, insalata, pomodoro, guanciale
+        subtitle: 'manzo 200gr, cheddar, insalata, pomodoro, guanciale'
         title_align: left
         content_align: left
         actions: []
@@ -214,7 +218,7 @@ sections:
         image_has_padding: false
       - title: Norcino
         price: '9'
-        subtitle: impasto di salsiccia 160gr, porcini, scamorza, tartufo
+        subtitle: 'impasto di salsiccia 160gr, porcini, scamorza, tartufo'
         title_align: left
         content_align: left
         actions: []
@@ -227,7 +231,9 @@ sections:
         image_has_padding: false
       - title: Parmigianotto
         price: 8
-        subtitle: manzo 200gr, melanzane fritte, mozzarella di bufala, salsa di ciliegino e grana
+        subtitle: >-
+          manzo 200gr, melanzane fritte, mozzarella di bufala, salsa di
+          ciliegino e grana
         title_align: left
         content_align: left
         actions: []
@@ -237,10 +243,10 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false  
+        image_has_padding: false
       - title: Parmigianotto Veggy
         price: 8
-        subtitle: melanzane fritte, mozzarella di bufala, salsa di ciliegino e grana
+        subtitle: 'melanzane fritte, mozzarella di bufala, salsa di ciliegino e grana'
         title_align: left
         content_align: left
         actions: []
@@ -253,7 +259,9 @@ sections:
         image_has_padding: false
       - title: El Toño
         price: 8
-        subtitle: impasto di salsiccia 100gr, crema di asparagi, ragù bianco e ricotta salata
+        subtitle: >-
+          impasto di salsiccia 100gr, crema di asparagi, ragù bianco e ricotta
+          salata
         title_align: left
         content_align: left
         actions: []
@@ -266,7 +274,7 @@ sections:
         image_has_padding: false
       - title: El diablo
         price: 8
-        subtitle: manzo 200gr, ventracina, mozzarella di bufala, crema ai carciofi
+        subtitle: 'manzo 200gr, ventracina, mozzarella di bufala, crema ai carciofi'
         title_align: left
         content_align: left
         actions: []
@@ -279,7 +287,9 @@ sections:
         image_has_padding: false
       - title: Vegetariano
         price: 7
-        subtitle: spinaci, zucchine e melanzane alla griglia, pomodorini confit e stracciatella
+        subtitle: >-
+          spinaci, zucchine e melanzane alla griglia, pomodorini confit e
+          stracciatella
         title_align: left
         content_align: left
         actions: []
@@ -289,7 +299,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false 
+        image_has_padding: false
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
@@ -309,8 +319,8 @@ sections:
     actions: []
     grid_items:
       - title: Tiramisù
-        price: 3,5
-        subtitle:
+        price: '3,5'
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -335,7 +345,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Meringa
-        price: 1,5
+        price: '1,5'
         subtitle: con panna e crema di pistacchio o frutti si bosco
         title_align: left
         content_align: left
@@ -348,7 +358,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Cialda Croccante
-        price: 3,5
+        price: '3,5'
         subtitle: con crema chantilly e nutella o frutti di bosco
         title_align: left
         content_align: left
@@ -411,7 +421,7 @@ sections:
         image_has_padding: false
       - title: Garganello
         price: 7
-        subtitle: mozzarella, cipolla di tropea, guanciale, pomodorini, prezzemolo
+        subtitle: 'mozzarella, cipolla di tropea, guanciale, pomodorini, prezzemolo'
         title_align: left
         content_align: left
         actions: []
@@ -424,7 +434,7 @@ sections:
         image_has_padding: false
       - title: Tartufella
         price: 9
-        subtitle: mozzarella, salsiccia, porcini, tartufo ed erba cipollina
+        subtitle: 'mozzarella, salsiccia, porcini, tartufo ed erba cipollina'
         title_align: left
         content_align: left
         actions: []
@@ -437,7 +447,7 @@ sections:
         image_has_padding: false
       - title: Asparagina
         price: 7
-        subtitle: mozzarella, cipolla, asparagi, salsiccia e zafferano
+        subtitle: 'mozzarella, cipolla, asparagi, salsiccia e zafferano'
         title_align: left
         content_align: left
         actions: []
@@ -450,7 +460,7 @@ sections:
         image_has_padding: false
       - title: Andrea
         price: 8
-        subtitle: mozzarella, prosciutto crudo, rucola, pomodorini,
+        subtitle: 'mozzarella, prosciutto crudo, rucola, pomodorini,'
         title_align: left
         content_align: left
         actions: []
@@ -461,9 +471,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title:
-        price: 
-        subtitle:
+      - title: null
+        price: null
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -474,9 +484,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title:
-        price: 
-        subtitle:
+      - title: null
+        price: null
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
