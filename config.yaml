@@ -82,7 +82,7 @@ params:
       &copy; <a href="https://alessandrooncini.netlify.app"
       target="_blank" rel="noopener">Alessandro Oncini</a>. Tutti i diritti riservati.
       Hai bisogno di un menù digitale per la tua attività? Contattami!
-  domain: 'https://super-eucalyptus-5f9c7.netlify.app'
+  domain: 'https://menugenerico.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
