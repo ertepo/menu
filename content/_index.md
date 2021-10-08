@@ -316,7 +316,7 @@ sections:
     type: grid_section
     background_image: images/panini e dolci.png
   - title: DOLCI
-    subtitle: panini
+    subtitle: i nostri
     actions: []
     grid_items:
       - title: Tiramisù
