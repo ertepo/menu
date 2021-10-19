@@ -6,11 +6,19 @@ sections:
     subtitle: bibite
     actions: []
     grid_items:
-      - image_alt: Logo 1
-        image_align: center
-        title: Acqua panna
-        title_align: left
+      - title: 'Acqua San Pellegrino'
         price: '2,50'
+        subtitle:
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
       - title: 'Acqua San Pellegrino'
         price: '2,50'
         subtitle:
