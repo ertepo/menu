@@ -1,6 +1,7 @@
 ---
 title: lorem-ipsum
-sections: []
+sections: 
+
 seo:
   title: ''
   description: ''
