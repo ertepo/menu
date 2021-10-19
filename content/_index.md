@@ -737,7 +737,7 @@ sections:
   - title: CONTORNI
     actions: []
     grid_items:
-  - title: Grappa Capovilla
+      - title: Grappa Capovilla
         price: '10'
         subtitle: null
         title_align: left
