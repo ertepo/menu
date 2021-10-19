@@ -803,7 +803,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: 
+      - title: Le mazzancolle dell'adriatico,
         price: '6'
         subtitle: null
         title_align: left
