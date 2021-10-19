@@ -738,7 +738,7 @@ sections:
     subtitle: 'dalle 17 alle 19'
     actions: []
     grid_items:
-      - title: La bufala pugliese e le alici spagnole
+      - title: 
         price: '6'
         subtitle: null
         title_align: left
@@ -751,7 +751,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: La bufala pugliese e le alici spagnole
+      - title: 
         price: '6'
         subtitle: null
         title_align: left
@@ -764,7 +764,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: La bufala pugliese e le alici spagnole
+      - title: 
         price: '6'
         subtitle: null
         title_align: left
@@ -777,7 +777,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: La bufala pugliese e le alici spagnole
+      - title: 
         price: '6'
         subtitle: null
         title_align: left
@@ -790,7 +790,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: La bufala pugliese e le alici spagnole
+      - title: 
         price: '6'
         subtitle: null
         title_align: left
@@ -803,7 +803,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: La bufala pugliese e le alici spagnole
+      - title: 
         price: '6'
         subtitle: null
         title_align: left
@@ -816,7 +816,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: La bufala pugliese e le alici spagnole
+      - title: 
         price: '6'
         subtitle: null
         title_align: left
@@ -829,7 +829,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: La bufala pugliese e le alici spagnole
+      - title: 
         price: '6'
         subtitle: null
         title_align: left
@@ -842,7 +842,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: La bufala pugliese e le alici spagnole
+      - title: 
         price: '6'
         subtitle: null
         title_align: left
