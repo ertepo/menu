@@ -290,7 +290,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Vegetariano
-        price: '7'
+        price: 7'
         subtitle: >-
           spinaci, zucchine e melanzane alla griglia, pomodorini confit e
           stracciatella
@@ -413,7 +413,7 @@ sections:
     actions: []
     grid_items:
       - title: Fornarina
-        price: '4'
+        price: 4
         subtitle: cipolla e rosmarino
         title_align: left
         content_align: left
