@@ -27,7 +27,7 @@ sections:
       - image_alt: Logo 2
         image_align: center
       - title: 'Acqua Levissima'
-        price: ''
+        price: '2,5'
         subtitle: 'cipolla di tropea, guanciale, pomodorini e prezzemolo'
       - title: Ravioli ripieni
         price: '8'
