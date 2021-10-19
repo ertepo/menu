@@ -452,7 +452,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Asparagina
-        price: 7
+        price: '4'
         subtitle: 'mozzarella, cipolla, asparagi, salsiccia e zafferano'
         title_align: left
         content_align: left
