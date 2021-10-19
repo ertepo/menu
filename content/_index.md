@@ -816,7 +816,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Sandwitch
+      - title: Sandwitch di tonno a modo nostro
         price: '6'
         subtitle: null
         title_align: left
