@@ -2,7 +2,7 @@
 title: Il nostro Menu
 sections:
   - 
-  title: BIBITE
+    title: BIBITE
     subtitle: bibite
     actions: []
     grid_items: []
