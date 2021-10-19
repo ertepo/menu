@@ -71,7 +71,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Cappellacci ripieni
+      - title: Orzo Illy
         price: '8'
         subtitle:
         title_align: left
