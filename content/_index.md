@@ -125,7 +125,7 @@ sections:
         image_has_padding: false
       - title: 
         price:
-        subtitle:'. . .'
+        subtitle: '. . .'
         title_align: center
         content_align: left
         actions: []
