@@ -38,7 +38,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Caffè Illy
-        price: '1,5'
+        price: '1,50'
         subtitle:
         title_align: left
         content_align: left
