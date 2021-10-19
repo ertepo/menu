@@ -57,7 +57,7 @@ sections:
         image_has_padding: false
       - title: Cappellacci ripieni
         price: '8'
-        subtitle: 'di carne con salsa datterino, bufala e basilico'
+        subtitle:
         title_align: left
         content_align: left
         actions: []
