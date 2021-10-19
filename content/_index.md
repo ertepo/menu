@@ -10,9 +10,9 @@ sections:
         image_align: center
         title: Acqua panna
         title_align: left
-        price: '2,5'
+        price: '2,50'
       - title: 'Acqua San Pellegrino'
-        price: '2,5'
+        price: '2,50'
         subtitle:
         title_align: left
         content_align: left
