@@ -735,7 +735,6 @@ sections:
     type: grid_section
     background_image: images/DOLCI.png
   - title: CONTORNI
-    subtitle: i nostri
     actions: []
     grid_items: []
     grid_cols: three
