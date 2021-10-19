@@ -439,7 +439,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Tartufella
-        price: 9
+        price: '9'
         subtitle: 'mozzarella, salsiccia, porcini, tartufo ed erba cipollina'
         title_align: left
         content_align: left
