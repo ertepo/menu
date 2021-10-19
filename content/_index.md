@@ -11,7 +11,7 @@ sections:
         title: Acqua panna
         title_align: left
         price: '2,5'
-      - title: 'Acqua SanPellegrino'
+      - title: 'Acqua San Pellegrino'
         price: '2,5'
         subtitle: alla Carbonara XL (cottura 20 min)
         title_align: left
