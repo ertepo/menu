@@ -214,6 +214,58 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+      - title: 
+        price:
+        subtitle: '. . . . . . . . . . . . . . . . . . . . .'
+        title_align: center
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: Succo Albicocca Patrick Font
+        price: '5'
+        subtitle:
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: Succo Pera Patrick Font
+        price: '5'
+        subtitle:
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: Succo Pesca Patrick Font
+        price: '5'
+        subtitle:
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
