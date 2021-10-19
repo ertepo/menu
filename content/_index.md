@@ -739,7 +739,7 @@ sections:
     actions: []
     grid_items:
       - title: La bufala pugliese e le alici spagnole
-        price: '10'
+        price: '6'
         subtitle: null
         title_align: left
         content_align: left
