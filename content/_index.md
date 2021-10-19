@@ -6,9 +6,9 @@ sections:
     subtitle: dal nostro
     actions: []
     grid_items:
-      - title: 'Acqua Panna'
+      - title: Acqua Panna
         price: '2,50'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -19,9 +19,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: 'Acqua San Pellegrino'
+      - title: Acqua San Pellegrino
         price: '2,50'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -34,7 +34,7 @@ sections:
         image_has_padding: false
       - title: Acqua Levissima
         price: '2,50'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -47,7 +47,7 @@ sections:
         image_has_padding: false
       - title: Caffè Illy
         price: '1,50'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -60,7 +60,7 @@ sections:
         image_has_padding: false
       - title: Decaffeinato Illy
         price: '1,20'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -73,7 +73,7 @@ sections:
         image_has_padding: false
       - title: Orzo Illy
         price: '1,50'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -86,7 +86,7 @@ sections:
         image_has_padding: false
       - title: Caffè macchiato
         price: '1,50'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -99,7 +99,7 @@ sections:
         image_has_padding: false
       - title: Cappuccino
         price: '1,50'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -112,7 +112,7 @@ sections:
         image_has_padding: false
       - title: Correzione
         price: '0,5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -123,9 +123,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: 
-        price:
-        subtitle: '. . . . . . . . . . . . . . . . . . . . .'
+      - title: null
+        price: null
+        subtitle: . . . . . . . . . . . . . . . . . . . . .
         title_align: center
         content_align: left
         actions: []
@@ -138,7 +138,7 @@ sections:
         image_has_padding: false
       - title: Succo Albicocca Patrick Font
         price: '5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -151,7 +151,7 @@ sections:
         image_has_padding: false
       - title: Succo Pera Patrick Font
         price: '5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -164,7 +164,7 @@ sections:
         image_has_padding: false
       - title: Succo Pesca Patrick Font
         price: '5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -177,7 +177,7 @@ sections:
         image_has_padding: false
       - title: Succo Mango Patrick Font
         price: '5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -190,7 +190,7 @@ sections:
         image_has_padding: false
       - title: Succo Mirtillo Patrick Font
         price: '5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -203,7 +203,7 @@ sections:
         image_has_padding: false
       - title: Succo Passion Fruit Patrick Font
         price: '6,5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -214,9 +214,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: 
-        price:
-        subtitle: '. . . . . . . . . . . . . . . . . . . . .'
+      - title: null
+        price: null
+        subtitle: . . . . . . . . . . . . . . . . . . . . .
         title_align: center
         content_align: left
         actions: []
@@ -229,7 +229,7 @@ sections:
         image_has_padding: false
       - title: Spritz
         price: '6,5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -242,7 +242,7 @@ sections:
         image_has_padding: false
       - title: Americano
         price: '6,5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -255,7 +255,7 @@ sections:
         image_has_padding: false
       - title: Negroni
         price: '6,5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -266,9 +266,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: 
-        price:
-        subtitle: '. . . . . . . . . . . . . . . . . . . . .'
+      - title: null
+        price: null
+        subtitle: . . . . . . . . . . . . . . . . . . . . .
         title_align: center
         content_align: left
         actions: []
@@ -281,7 +281,7 @@ sections:
         image_has_padding: false
       - title: Grappa Montanaro
         price: '3,5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -294,7 +294,7 @@ sections:
         image_has_padding: false
       - title: Grappa Bucci
         price: '3,5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -307,7 +307,7 @@ sections:
         image_has_padding: false
       - title: Grappa Poli
         price: '3,5'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -320,7 +320,7 @@ sections:
         image_has_padding: false
       - title: Grappa Capovilla
         price: '10'
-        subtitle:
+        subtitle: null
         title_align: left
         content_align: left
         actions: []
@@ -344,6 +344,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
+    background_image: images/bar1.png
   - type: grid_section
     title: PRIMI
     subtitle: i nostri
