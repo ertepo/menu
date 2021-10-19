@@ -318,7 +318,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Succo Mango Patrick Font
+      - title: Grappa BucciCapovilla
         price: '5'
         subtitle:
         title_align: left
