@@ -111,7 +111,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Correzione
-        price: ''
+        price: '0,5'
         subtitle:
         title_align: left
         content_align: left
