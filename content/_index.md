@@ -426,7 +426,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Garganello
-        price: 7
+        price: '7'
         subtitle: 'mozzarella, cipolla di tropea, guanciale, pomodorini, prezzemolo'
         title_align: left
         content_align: left
