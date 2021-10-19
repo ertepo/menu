@@ -3,7 +3,7 @@ title: Il nostro Menu
 sections:
   - type: grid_section
     title: BAR
-    sectionid: 
+    sectionid: prova
     subtitle: dal nostro
     actions: []
     grid_items:
