@@ -128,7 +128,7 @@ sections:
         subtitle: '. . . . . . . . . . . . . . . . . . . . .'
         title_align: center
         content_align: left
-        actions: []
+        actions: [ciao]
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
