@@ -306,7 +306,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Grappa Poli
-        price: '5'
+        price: '3,5'
         subtitle:
         title_align: left
         content_align: left
