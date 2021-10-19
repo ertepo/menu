@@ -319,7 +319,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Grappa Capovilla
-        price: '5'
+        price: '10'
         subtitle:
         title_align: left
         content_align: left
