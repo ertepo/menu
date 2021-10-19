@@ -72,7 +72,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Orzo Illy
-        price: '8'
+        price: '1,50'
         subtitle:
         title_align: left
         content_align: left
