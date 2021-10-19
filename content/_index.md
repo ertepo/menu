@@ -803,7 +803,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Le mazzancolle dell'adriatico,
+      - title: Le mazzancolle dell'adriatico, formaggio fuso e tartufo nero
         price: '6'
         subtitle: null
         title_align: left
