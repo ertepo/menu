@@ -234,7 +234,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Parmigianotto
-        price: 8
+        price: '8'
         subtitle: >-
           manzo 200gr, melanzane fritte, mozzarella di bufala, salsa di
           ciliegino e grana
@@ -249,7 +249,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Parmigianotto Veggy
-        price: 8
+        price: '8'
         subtitle: 'melanzane fritte, mozzarella di bufala, salsa di ciliegino e grana'
         title_align: left
         content_align: left
@@ -262,7 +262,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: El Toño
-        price: 8
+        price: '8'
         subtitle: >-
           impasto di salsiccia 100gr, crema di asparagi, ragù bianco e ricotta
           salata
@@ -277,7 +277,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: El diablo
-        price: 8
+        price: '8'
         subtitle: 'manzo 200gr, ventracina, mozzarella di bufala, crema ai carciofi'
         title_align: left
         content_align: left
@@ -465,7 +465,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Andrea
-        price: 8
+        price: '8'
         subtitle: 'mozzarella, prosciutto crudo, rucola, pomodorini,'
         title_align: left
         content_align: left
