@@ -764,7 +764,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: 
+      - title: Pane arrostito e pancetta
         price: '6'
         subtitle: null
         title_align: left
