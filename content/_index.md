@@ -18,7 +18,6 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    type: grid_section
   - type: grid_section
     subtitle: i nostri
     align: center
