@@ -751,7 +751,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: 
+      - title: Crostino al gorgonzola e tartufo
         price: '6'
         subtitle: null
         title_align: left
