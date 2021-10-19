@@ -123,9 +123,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: '. . .'
+      - title: 
         price:
-        subtitle:
+        subtitle:'. . .'
         title_align: center
         content_align: left
         actions: []
