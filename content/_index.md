@@ -97,7 +97,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Orzo Illy
+      - title:Cappuccino
         price: '8'
         subtitle:
         title_align: left
