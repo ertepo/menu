@@ -51,7 +51,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Decaffeinato Illy
-        price: '1,5'
+        price: '1,20'
         subtitle:
         title_align: left
         content_align: left
