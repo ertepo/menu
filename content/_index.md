@@ -125,7 +125,7 @@ sections:
         image_has_padding: false
       - title: 
         price:
-        subtitle: ...............
+        subtitle: _____________________
         title_align: center
         content_align: left
         actions: []
