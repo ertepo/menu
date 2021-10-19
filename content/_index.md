@@ -10,7 +10,7 @@ sections:
         image_align: center
         title: Acqua panna
         title_align: left
-        price: '9'
+        price: '2.5'
       - title: Spaghetti
         price: 7-9
         subtitle: alla Carbonara XL (cottura 20 min)
