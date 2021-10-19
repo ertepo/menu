@@ -790,7 +790,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Il prosciutto di Parma, la
+      - title: Il prosciutto di Parma, la burratina e la piadina
         price: '6'
         subtitle: null
         title_align: left
