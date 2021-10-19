@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: presentazione
 sections: 
   - type: hero_section
     title: Qualcosa di presentazione se si vuole...
