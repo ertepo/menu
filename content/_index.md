@@ -25,7 +25,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Acqua Levissima
-        price: '2,5'
+        price: '2,50'
         subtitle:
         title_align: left
         content_align: left
