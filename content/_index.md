@@ -740,10 +740,10 @@ sections:
       - title: Grappa Capovilla
         price: '10'
         subtitle: null
-       title_align: left
-       content_align: left
-       actions: []
-       actions_align: left
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
        actions_width: auto
        image_alt: lorem-ipsum
        image_position: top
