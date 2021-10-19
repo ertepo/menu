@@ -3,7 +3,7 @@ title: Il nostro Menu
 sections:
   - type: grid_section
     title: BIBITE
-    subtitle: bibite
+    subtitle: dal nostro
     actions: []
     grid_items:
       - title: 'Acqua Panna'
