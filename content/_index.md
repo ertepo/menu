@@ -3,7 +3,6 @@ title: Il nostro Menu
 sections:
   - type: grid_section
     title: BAR
-    id: prova
     subtitle: dal nostro
     actions:
       - label: lorem-ipsum
