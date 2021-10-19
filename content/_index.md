@@ -1,6 +1,7 @@
 ---
 title: Il nostro Menu
 sections:
+
   - type: grid_section
     subtitle: i nostri
     align: center
