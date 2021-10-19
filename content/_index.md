@@ -26,7 +26,7 @@ sections:
         image_has_padding: false
       - image_alt: Logo 2
         image_align: center
-      - title: 'Acqua San Pellegrino'
+      - title: 'Acqua Levissima'
         price: '7'
         subtitle: 'cipolla di tropea, guanciale, pomodorini e prezzemolo'
       - title: Ravioli ripieni
