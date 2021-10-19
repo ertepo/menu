@@ -6,7 +6,7 @@ sections:
     subtitle: bibite
     actions: []
     grid_items:
-      - title: 'Acqua San Pellegrino'
+      - title: 'Acqua Panna'
         price: '2,50'
         subtitle:
         title_align: left
