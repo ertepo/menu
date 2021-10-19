@@ -136,7 +136,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Correzione
+      - title: Succo
         price: '0,5'
         subtitle:
         title_align: left
