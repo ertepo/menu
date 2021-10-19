@@ -167,7 +167,6 @@ sections:
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
-    title: PRIMI
     enable_cards: false
     padding_bottom: none
     background_image: images/pasta.png
