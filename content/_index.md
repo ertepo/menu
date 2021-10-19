@@ -734,7 +734,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     background_image: images/DOLCI.png
-  - title: CONTORNI
+  - title: TAPAS/APERITIVI
     actions: []
     grid_items:
       - title: Grappa Capovilla
