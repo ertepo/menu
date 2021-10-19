@@ -334,7 +334,7 @@ sections:
         image_has_padding: false
     grid_cols: three
     grid_gap_vert: small
-    grid_gap_horiz: small
+    grid_gap_horiz: large
     enable_cards: false
     align: center
     padding_top: medium
@@ -736,7 +736,7 @@ sections:
     type: grid_section
     background_image: images/DOLCI.png
   - title: TAPAS/APERITIVI
-    subtitle: 'dalle 17 alle 19'
+    subtitle: dalle 17 alle 19
     actions: []
     grid_items:
       - title: la bufala pugliese e le alici spagnole
@@ -791,7 +791,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Il prosciutto di Parma, la burratina e la piadina
+      - title: 'Il prosciutto di Parma, la burratina e la piadina'
         price: '6'
         subtitle: null
         title_align: left
@@ -804,7 +804,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Le mazzancolle dell'adriatico, formaggio fuso e tartufo nero
+      - title: 'Le mazzancolle dell''adriatico, formaggio fuso e tartufo nero'
         price: '6'
         subtitle: null
         title_align: left
@@ -843,7 +843,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Crostini con alici del Cantabrico, burro salato francese e tartufo nero
+      - title: >-
+          Crostini con alici del Cantabrico, burro salato francese e tartufo
+          nero
         price: '6'
         subtitle: null
         title_align: left
