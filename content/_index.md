@@ -736,7 +736,20 @@ sections:
     background_image: images/DOLCI.png
   - title: CONTORNI
     actions: []
-    grid_items: []
+    grid_items:
+  - title: Grappa Capovilla
+        price: '10'
+        subtitle: null
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
