@@ -333,7 +333,7 @@ sections:
         image_align: left
         image_has_padding: false
     grid_cols: three
-    grid_gap_vert: small
+    grid_gap_vert: large
     grid_gap_horiz: large
     enable_cards: false
     align: center
