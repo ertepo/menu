@@ -30,7 +30,7 @@ sections:
         price: '2,5'
         subtitle:
       - title: Caffè Illy
-        price: '8'
+        price: '1,5'
         subtitle: di ricotta e porcini con ragù di coniglio ed erba cipollina
         title_align: left
         content_align: left
