@@ -738,7 +738,7 @@ sections:
     subtitle: 'dalle 17 alle 19'
     actions: []
     grid_items:
-      - title: 
+      - title: la bufala pugliese e le alici spagnole
         price: '6'
         subtitle: null
         title_align: left
