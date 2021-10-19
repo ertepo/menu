@@ -5,9 +5,8 @@ sections:
     title: BIBITE
     subtitle: bibite
     actions: []
-    grid_items: [
+    grid_items:
         
-    ]
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
