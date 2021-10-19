@@ -44,7 +44,7 @@ sections:
         image_has_padding: false
       - title: Gnocchi
         price: '7'
-        subtitle: asparagi e guanciale
+        subtitle:
         title_align: left
         content_align: left
         actions: []
