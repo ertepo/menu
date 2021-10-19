@@ -735,7 +735,7 @@ sections:
     type: grid_section
     background_image: images/DOLCI.png
   - title: TAPAS/APERITIVI
-  
+    subtitle: dalle 17 alle 19
     actions: []
     grid_items:
       - title: Grappa Capovilla
