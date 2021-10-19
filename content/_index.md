@@ -7,7 +7,7 @@ sections:
     subtitle: dal nostro
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: '#primi'
         style: link
         has_icon: false
         icon: arrow-left
