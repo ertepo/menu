@@ -24,8 +24,8 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Cappellacci ripieni
-        price: '8'
+      - title: Acqua Levissima
+        price: '2,5'
         subtitle:
         title_align: left
         content_align: left
