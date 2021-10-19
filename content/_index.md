@@ -842,7 +842,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Crostini con alici del Cantabrico,
+      - title: Crostini con alici del Cantabrico, burro salato francese e tartufo nero
         price: '6'
         subtitle: null
         title_align: left
