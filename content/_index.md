@@ -137,7 +137,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Succo Albicocca
-        price: '0,5'
+        price: '5'
         subtitle:
         title_align: left
         content_align: left
