@@ -777,7 +777,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: 
+      - title: Piadina alle verdure miste
         price: '6'
         subtitle: null
         title_align: left
