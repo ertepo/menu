@@ -569,7 +569,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    type: grid_section
+    type: hero_section
   - type: hero_section
     title: Qualcosa di presentazione se si vuole...
     subtitle: Bla blablab
