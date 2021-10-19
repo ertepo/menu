@@ -738,7 +738,7 @@ sections:
     subtitle: 'dalle 17 alle 19'
     actions: []
     grid_items:
-      - title: Grappa Capovilla
+      - title: La bufala pugliese e le alici spagnole
         price: '10'
         subtitle: null
         title_align: left
