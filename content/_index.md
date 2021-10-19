@@ -254,7 +254,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Negroni
-        price: '5'
+        price: '6,5'
         subtitle:
         title_align: left
         content_align: left
