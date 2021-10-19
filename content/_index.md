@@ -12,7 +12,7 @@ sections:
         title_align: left
         price: '2,5'
       - title: 'Acqua SanPellegrino'
-        price: 7-9
+        price: '
         subtitle: alla Carbonara XL (cottura 20 min)
         title_align: left
         content_align: left
