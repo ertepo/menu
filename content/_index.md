@@ -6,7 +6,68 @@ sections:
     subtitle: bibite
     actions: []
     grid_items:
-      - 
+      - image_alt: Logo 1
+        image_align: center
+        title: Tagliatelle all'anatra
+        title_align: left
+        price: '9'
+      - title: Spaghetti
+        price: 7-9
+        subtitle: alla Carbonara XL (cottura 20 min)
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - image_alt: Logo 2
+        image_align: center
+        title: Garganelli
+        price: '7'
+        subtitle: 'cipolla di tropea, guanciale, pomodorini e prezzemolo'
+      - title: Ravioli ripieni
+        price: '8'
+        subtitle: di ricotta e porcini con ragù di coniglio ed erba cipollina
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: Gnocchi
+        price: '7'
+        subtitle: asparagi e guanciale
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: Cappellacci ripieni
+        price: '8'
+        subtitle: 'di carne con salsa datterino, bufala e basilico'
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
