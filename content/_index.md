@@ -1,7 +1,7 @@
 ---
 title: Il nostro Menu
 sections:
-  - 
+  - type: grid_section
     title: BIBITE
     subtitle: bibite
     actions: []
