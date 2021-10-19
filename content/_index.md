@@ -305,7 +305,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Succo Pesca Patrick Font
+      - title: Grappa Poli
         price: '5'
         subtitle:
         title_align: left
