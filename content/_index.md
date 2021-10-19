@@ -8,7 +8,7 @@ sections:
     grid_items:
       - image_alt: Logo 1
         image_align: center
-        title: Tagliatelle all'anatra
+        title: Acqua panna
         title_align: left
         price: '9'
       - title: Spaghetti
