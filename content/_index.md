@@ -829,7 +829,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: 
+      - title: Crostini con verdune e pecorino di Pienza
         price: '6'
         subtitle: null
         title_align: left
