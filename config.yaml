@@ -83,8 +83,7 @@ params:
         new_window: true
     content: >-
       &copy; <a href="https://alessandrooncini.netlify.app" target="_blank"
-      rel="noopener">Alessandro Oncini</a>. Tutti i diritti riservati. Hai
-      bisogno di un menù digitale per la tua attività? Contattami!
+      rel="noopener">Alessandro Oncini</a>.
     logo: images/copertina.png
     has_tertiary_nav: false
   domain: 'https://menugenerico.netlify.app'
