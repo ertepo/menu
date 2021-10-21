@@ -24,7 +24,6 @@ window.removeVideoEmbedsHandlers = function() {
 		}
 	}
 };
-/*
 // Handle main navigation menu toggling on small screens
 function navToggleHandler(e) {
 	e.preventDefault();
