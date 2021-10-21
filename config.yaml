@@ -20,7 +20,7 @@ params:
         style: link
       - label: Secondi
         url: '/#SECONDI'
-        style: primary
+        style: link
       - label: Bar
         url: '/#BAR'
         style: link
