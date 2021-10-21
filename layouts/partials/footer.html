@@ -70,7 +70,7 @@
 				{{ end }}
 				{{ if $footer_social }}
 				<div class="site-footer__social cell-12{{ if $footer_content }} cell-sm-auto{{ end }}">
-					{{ range $link := $.Site.Params.footer.social_links }}
+					{{ range $link := $.Site.Params.footer.social_linkis }}
 						{{ $link_style := $link.style | default "link" }}
 						{{ if and $link.has_icon $link.icon }}
 						<a href="{{ $link.url | relURL }}"
