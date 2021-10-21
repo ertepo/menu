@@ -1,7 +1,3 @@
-{{ $currentPage := . }}
-    {{ range .Site.Menus.main }}
-    <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-    {{ end }}
 {{ $action := .action }}
 {{ $action_style := $action.style | default "link" }}
 {{ $action_icon_pos := $action.icon_position | default "right" }}
@@ -12,7 +8,7 @@
 	{{ if $action.has_icon }}
 		{{ $include_dict := dict "icon" $action.icon }}
 		{{ partial "icon.html" $include_dict }}
-		<span class="{{ if eq $action_icon_pos "right" }}order-first{{ end }}{{ if eq $action_icon_pos "center" }} sr-only{{ end }}">{{ .Name }}{{ $action.label }}</span>
+		<span class="{{ if eq $action_icon_pos "right" }}order-first{{ end }}{{ if eq $action_icon_pos "center" }} sr-only{{ end }}">{{ $action.label }}</span>
 	{{ else }}
 		{{ $action.label }}
 	{{ end }}
