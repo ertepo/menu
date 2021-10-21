@@ -1,4 +1,7 @@
-
+{{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    {{ end }}
 {{ $action := .action }}
 {{ $action_style := $action.style | default "link" }}
 {{ $action_icon_pos := $action.icon_position | default "right" }}
