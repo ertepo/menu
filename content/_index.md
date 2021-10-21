@@ -997,7 +997,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: Stackbit Personal Theme
+  title: Menù digitale
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
