@@ -4,15 +4,6 @@ sections:
   - type: grid_section
     title: BAR
     subtitle: dal nostro
-    actions:
-      - label: lorem-ipsum
-        url: '#primi'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
     grid_items:
       - title: Acqua Panna
         price: '2,50'
