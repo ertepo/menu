@@ -25,7 +25,7 @@ params:
         url: '/#HAMBURGER'
         style: link
       - label: Dolci
-        url: '/#PRIMI'
+        url: '/#DOLCI'
         style: link
       - label: Bar
         url: '/#BAR'
