@@ -48,7 +48,7 @@
 		max-width: container-max-width(small);
 		-webkit-overflow-scrolling: touch;
 		position: fixed;
-		top: ;
+		top: 0;
 		transition: right .3s cubic-bezier(.65,.05,.36,1), visibility 0s .3s;
 		visibility: hidden;
 		width: 50%;
