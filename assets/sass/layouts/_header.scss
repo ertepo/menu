@@ -40,7 +40,7 @@
 
 @include media-breakpoint-down(md) {
 	.navbar__container {
-		-webkit-backface-visibility: visible;
+		-webkit-backface-visibility: hidden;
 		backface-visibility: hidden;
 		background-color: $color-nav-mobile-bg;
 		bottom: 0;
