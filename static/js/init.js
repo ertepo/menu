@@ -44,7 +44,7 @@ window.removeMainNavigationHandlers = function() {
 	const menuToggle = document.querySelectorAll('.js-nav-toggle');
 	if (menuToggle) {
 		for (let i = 0; i < menuToggle.length; i++) {
-			menuToggle[i].removeEventListener('click', navToggleHandler, true);
+			menuToggle[i].removeEventListener('click', navToggleHandler, false);
 		}
 	}
 };
