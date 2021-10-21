@@ -40,6 +40,7 @@
 
 @include media-breakpoint-down(md) {
 	.navbar__container {
+        font-size: em;
 		-webkit-backface-visibility: hidden;
 		backface-visibility: hidden;
 		background-color: $color-nav-mobile-bg;
@@ -67,7 +68,6 @@
 	}
 
 	.navbar__menu {
-        font-size: 2em;
 		border-top: 1px solid $color-nav-mobile-border;
 		margin-top: 1.11111rem;
 		padding-top: 1.11111rem;
