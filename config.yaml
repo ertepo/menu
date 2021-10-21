@@ -30,9 +30,6 @@ params:
     logo_alt: Alyvia logo
     has_primary_nav: true
     primary_nav_links:
-      - label: About
-        url: /about
-        style: link
       - label: FAQ
         url: /faq
         style: link
