@@ -39,7 +39,7 @@ params:
         url: '/#primi'
     has_anncmnt: false
     sectionPagesMenu: "main"
-  footer:
+  footeri:
     logo_alt: Logo Tre Botteghe
     has_primary_nav: true
     primary_nav_links: []
