@@ -27,7 +27,7 @@ params:
       - label: Dolci
         url: '/#DOLCI'
         style: link
-      - label: Bar
+      - label: TAPAS
         url: '/#BAR'
         style: link
       - label: Primi
