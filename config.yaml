@@ -28,7 +28,7 @@ params:
         url: '/#DOLCI'
         style: link
       - label: TAPAS
-        url: '/#BAR'
+        url: '/#TAPAS/'
         style: link
       - label: Primi
         url: '/#PRIMI'
