@@ -115,6 +115,7 @@ window.removeAnnouncementHandlers = function() {
             }
         }
     });
+
 /*
 // Smooth scrolling for browsers that don't support CSS smooth scrolling
 if (window.getComputedStyle(document.documentElement).scrollBehavior !== 'smooth') {
