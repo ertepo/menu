@@ -24,7 +24,7 @@ params:
       - label: Hamburger
         url: '/#HAMBURGER'
         style: link
-      - label: Primi
+      - label: Dolci
         url: '/#PRIMI'
         style: link
       - label: Bar
