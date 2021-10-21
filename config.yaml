@@ -31,7 +31,7 @@ params:
         url: '/#TAPAS/APERITIVI'
         style: link
       - label: Pizze
-        url: '/#PRIMI'
+        url: '/#PRPIZZEIMI'
         style: link
       - label: Secondi
         url: '/#SECONDI'
