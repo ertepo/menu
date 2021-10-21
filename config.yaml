@@ -32,7 +32,7 @@ params:
     primary_nav_links:
       - label: FAQ
         url: /faq
-        style: primary
+        style: secondary
       - label: Contact me
         url: /contact
         style: link
