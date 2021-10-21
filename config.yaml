@@ -24,7 +24,7 @@ params:
     has_secondary_nav: true
     secondary_nav_links:
       - label: secondi
-        url: /#bar
+        url: /#primi
     has_anncmnt: false
   footer:
     logo: images/logo.svg
