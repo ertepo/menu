@@ -18,8 +18,8 @@ params:
       - label: Primi
         url: '/#PRIMI'
         style: link
-      - label: Bar
-        url: '/#BAR'
+      - label: Secondi
+        url: '/#SECONDI'
         style: link
       - label: Bar
         url: '/#BAR'
