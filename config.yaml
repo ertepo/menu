@@ -16,7 +16,7 @@ params:
         url: '/#BAR'
         style: link
       - label: Primi
-        url: '/#BAR'
+        url: '/#PRIMI'
         style: link
       - label: Bar
         url: '/#BAR'
