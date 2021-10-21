@@ -44,7 +44,7 @@
 		backface-visibility: hidden;
 		background-color: $color-nav-mobile-bg;
 		bottom: 0;
-		right: -100%;
+		right: 100%;
 		max-width: container-max-width(small);
 		-webkit-overflow-scrolling: touch;
 		position: fixed;
