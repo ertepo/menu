@@ -15,7 +15,7 @@ params:
       - label: Primi
         url: /#primi
         style: link
-      - label: About
+      - label: Secondi
         url: /#secondi
         style: link
       - label: Contatti
