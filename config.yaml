@@ -30,7 +30,7 @@ params:
       - label: Tapas
         url: '/#TAPAS/APERITIVI'
         style: link
-      - label: Primi
+      - label: Pizze
         url: '/#PRIMI'
         style: link
       - label: Secondi
