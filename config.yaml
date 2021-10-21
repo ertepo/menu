@@ -32,9 +32,6 @@ params:
     primary_nav_links: []
     has_secondary_nav: false
     secondary_nav_links:
-      - label: Style Guide
-        url: /style-guide
-        style: link
       - label: Terms & Conditions
         url: /terms-conditions
         style: link
