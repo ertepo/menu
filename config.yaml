@@ -52,7 +52,7 @@ params:
         url: /privacy-policy
         style: link
     has_social: true
-    social_linkis:
+    social_links:
       - label: Twitter
         url: 'https://twitter.com/opetre'
         style: link
