@@ -19,7 +19,7 @@ params:
         url: '/#PRIMI'
         style: link
       - label: Secondi
-        url: '/#secondi'
+        url: '/#SECONDI'
         style: link
     has_secondary_nav: false
     secondary_nav_links:
