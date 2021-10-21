@@ -98,6 +98,7 @@
 		overflow: hidden;
 	
 		.nav-overlay {
+                position sticky;
                 height: 100%;
 				opacity: 1;
 				transition: opacity .25s;
