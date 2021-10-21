@@ -14,6 +14,6 @@
 		{{ partial "icon.html" $include_dict }}
 		<span class="{{ if eq $action_icon_pos "right" }}order-first{{ end }}{{ if eq $action_icon_pos "center" }} sr-only{{ end }}">{{ $action.label }}</span>
 	{{ else }}
-		{{ $action.label }}{{ .Name }}
+		{{ $action.label }}
 	{{ end }}
 </a>
