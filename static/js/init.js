@@ -24,7 +24,7 @@ window.removeVideoEmbedsHandlers = function() {
 		}
 	}
 };
-/*
+
 // Handle main navigation menu toggling on small screens
 function navToggleHandler(e) {
 	e.preventDefault();
@@ -101,7 +101,7 @@ window.removeAnnouncementHandlers = function() {
 		anncmntClose.removeEventListener('click', announcementCloseHandler, false);
 	}
 }
-*/
+
 /* animation scroll js
     var html_body = $('html, body');
     $('nav li a').on('click', function () { //use page-scroll class in any HTML tag for scrolling
