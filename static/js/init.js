@@ -115,7 +115,7 @@ window.removeAnnouncementHandlers = function() {
         }
     });
 
-    // Smooth scrolling for browsers that don't support CSS smooth scrolling
+// Smooth scrolling for browsers that don't support CSS smooth scrolling
 if (window.getComputedStyle(document.documentElement).scrollBehavior !== 'smooth') {
     document.querySelectorAll('a[href^="#"]').forEach(internalLink => {
         const targetElement = document.querySelector(internalLink.getAttribute('href'));
@@ -129,4 +129,4 @@ if (window.getComputedStyle(document.documentElement).scrollBehavior !== 'smooth
         }
     });
 }
-*/
+
