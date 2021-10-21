@@ -16,7 +16,7 @@ params:
         url: /#primi
         style: link
       - label: About
-        url: /#primi
+        url: /#secondi
         style: link
       - label: Contatti
         url: /contact
