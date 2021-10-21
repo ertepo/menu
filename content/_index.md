@@ -998,7 +998,7 @@ sections:
     type: grid_section
 seo:
   title: Menù digitale
-  description: un menù digitale 
+  description: un menù digitale per la tua attività
   extra:
     - name: 'og:type'
       value: website
