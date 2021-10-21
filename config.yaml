@@ -23,7 +23,8 @@ params:
         style: link
     has_secondary_nav: true
     secondary_nav_links:
-      - label: secondi:
+      - label: secondi
+        url: 
     has_anncmnt: false
   footer:
     logo: images/logo.svg
