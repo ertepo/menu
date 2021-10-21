@@ -13,21 +13,20 @@ params:
     has_primary_nav: true
     primary_nav_links:
       - label: Bar
-        url: /#bar
+        url: '/#bar'
         style: link
       - label: Primi
-        url: /#primi
+        url: '/#primi'
         style: link
       - label: Secondi
-        url: /#secondi
+        url: '/#secondi'
         style: link
     has_secondary_nav: false
     secondary_nav_links:
       - label: secondi
-        url: /#primi
+        url: '/#primi'
     has_anncmnt: false
   footer:
-    logo: images/logo.svg
     logo_alt: Alyvia logo
     has_primary_nav: true
     primary_nav_links:
@@ -82,9 +81,9 @@ params:
         icon_position: center
         new_window: true
     content: >-
-      &copy; <a href="https://alessandrooncini.netlify.app"
-      target="_blank" rel="noopener">Alessandro Oncini</a>. Tutti i diritti riservati.
-      Hai bisogno di un menù digitale per la tua attività? Contattami!
+      &copy; <a href="https://alessandrooncini.netlify.app" target="_blank"
+      rel="noopener">Alessandro Oncini</a>. Tutti i diritti riservati. Hai
+      bisogno di un menù digitale per la tua attività? Contattami!
   domain: 'https://menugenerico.netlify.app'
 taxonomies:
   stub: stub
