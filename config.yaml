@@ -14,7 +14,8 @@ params:
     primary_nav_links:
       - label: Bar
         url: /#bar
-        style: link- label: Primi
+        style: link
+      - label: Primi
         url: /#primi
         style: link
       - label: Secondi
