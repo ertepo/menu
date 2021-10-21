@@ -2,7 +2,7 @@
  * Sections
  */
 .section {
-    
+    scroll-margin-top: 1em;
 	&.has-border {
 		border-bottom: 1px solid $color-sect-border;
 
