@@ -82,7 +82,7 @@ params:
         icon_position: center
         new_window: true
     content: >-
-      Men+ digitale a cura di &copy; <a href="https://alessandrooncini.netlify.app" target="_blank"
+      Menù digitale a cura di &copy; <a href="https://alessandrooncini.netlify.app" target="_blank"
       rel="noopener">Alessandro Oncini</a>. Tutti i diritti riservati. <br> Se hai bisogno di un menù digitale super rapido, sicuro e leggero, contattami pure!
     logo: images/copertina.png
     has_tertiary_nav: false
