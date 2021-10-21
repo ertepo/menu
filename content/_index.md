@@ -998,7 +998,7 @@ sections:
     type: grid_section
 seo:
   title: Menù digitale
-  description: The preview of the Personal theme
+  description: un menù digitale 
   extra:
     - name: 'og:type'
       value: website
