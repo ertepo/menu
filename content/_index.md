@@ -979,7 +979,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: PIZZE ROSSE
-    subtitle: pizze
+    subtitle: []
     actions: []
     grid_items: []
     grid_cols: three
