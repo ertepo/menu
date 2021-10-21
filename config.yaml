@@ -18,7 +18,7 @@ params:
       - label: Secondi
         url: /#secondi
         style: link
-      - label: Contatti
+      - label: Bar
         url: /contact
         style: link
     has_secondary_nav: false
