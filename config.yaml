@@ -22,7 +22,7 @@ params:
         url: '/#SECONDI'
         style: link
       - label: Hamburger
-        url: '/#BAR'
+        url: '/#HAMBURGER'
         style: link
       - label: Primi
         url: '/#PRIMI'
