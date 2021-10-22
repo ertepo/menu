@@ -32,7 +32,7 @@ function navToggleHandler(e) {
 }
 
 window.addMainNavigationHandlers = function() {
-	const menuToggle = document.querySelectorAll('.js-nav-toggle');
+	const menuToggle = document.querySelectorAll('.menu__item');
 	if (menuToggle) {
 		for (let i = 0; i < menuToggle.length; i++) {
 			menuToggle[i].addEventListener('click', navToggleHandler, false);
