@@ -42,7 +42,7 @@ window.addMainNavigationHandlers = function() {
 
 window.removeMainNavigationHandlers = function() {
 	document.body.classList.remove('js-nav-open');
-	const menuToggle = document.querySelectorAll('.js-nav-toggle');
+	const menuToggle = document.querySelectorAll('.menu__item');
 	if (menuToggle) {
 		for (let i = 0; i < menuToggle.length; i++) {
 			menuToggle[i].removeEventListener('click', navToggleHandler, false);
