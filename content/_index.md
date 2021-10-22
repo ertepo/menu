@@ -1007,7 +1007,7 @@ seo:
       value: Menù digitale
       keyName: property
     - name: 'og:description'
-      value: veloce, leggero e pulito
+      value: 
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
