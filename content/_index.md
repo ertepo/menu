@@ -1007,7 +1007,7 @@ seo:
       value: Menù digitale
       keyName: property
     - name: 'og:description'
-      value: by Alessandro Oncini
+      value: menù by Alessandro Oncini
       keyName: property
     - name: 'og:image'
       value: images/icon_menu.png
