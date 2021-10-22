@@ -1018,7 +1018,7 @@ seo:
     - name: 'twitter:title'
       value: Menù digitale
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: menù by Alessandro Oncini
     - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true
