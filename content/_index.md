@@ -1020,7 +1020,7 @@ seo:
     - name: 'twitter:description'
       value: menù by Alessandro Oncini
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: images/icon_menu.png
       relativeUrl: true
 layout: advanced
 ---
