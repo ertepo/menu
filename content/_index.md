@@ -661,7 +661,6 @@ sections:
     background_image_position: left center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/panini e dolci.png
   - title: DOLCI
     subtitle: i nostri
     actions: []
