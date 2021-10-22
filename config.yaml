@@ -38,7 +38,7 @@ params:
       - label: secondi
         url: '/#primi'
     has_anncmnt: false
-    sectionPagesMenu: "main"
+    sectionPagesMenu: main
   footer:
     logo_alt: Logo Tre Botteghe
     has_primary_nav: true
@@ -82,8 +82,10 @@ params:
         icon_position: center
         new_window: true
     content: >-
-      Menù digitale a cura di &copy; <a href="https://alessandrooncini.netlify.app" target="_blank"
-      rel="noopener">Alessandro Oncini</a>.<br> Se hai bisogno di un menù digitale super rapido, sicuro e leggero, contattami pure!
+      Menù digitale a cura di &copy; <a
+      href="https://alessandrooncini.netlify.app" target="_blank"
+      rel="noopener">Alessandro Oncini</a>.<br> Se hai bisogno di un menù
+      digitale super rapido, sicuro e leggero, contattami pure!
     logo: images/copertina.png
     has_tertiary_nav: false
   domain: 'https://menugenerico.netlify.app'

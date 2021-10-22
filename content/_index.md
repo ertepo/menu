@@ -978,24 +978,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: PIZZE ROSSE
-    subtitle: []
-    actions: []
-    grid_items: []
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
 seo:
   title: Menù digitale
   description: un menù digitale per la tua attività
@@ -1007,20 +989,20 @@ seo:
       value: Menù digitale
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: menù by Alessandro Oncini
       keyName: property
     - name: 'og:image'
-      value: images/personal-preview.png
+      value: images/icon_menu.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Personal Theme
+      value: Menù digitale
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: menù by Alessandro Oncini
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: images/icon_menu.png
       relativeUrl: true
 layout: advanced
 ---
