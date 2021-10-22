@@ -49,7 +49,7 @@ window.removeMainNavigationHandlers = function() {
 		}
 	}
 };
-
+*/
 // Handle announcement close button click
 const hasLocalStorage = (function() {
 	try {
