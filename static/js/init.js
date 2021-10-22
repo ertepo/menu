@@ -30,7 +30,7 @@ function navToggleHandler(e) {
 	e.preventDefault();
 	document.body.classList.toggle('js-nav-open');
 }
-/*
+
 window.addMainNavigationHandlers = function() {
 	const menuToggle = document.querySelectorAll('.js-nav-toggle');
 	if (menuToggle) {
