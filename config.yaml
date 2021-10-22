@@ -86,7 +86,7 @@ params:
       href="https://alessandrooncini.netlify.app" target="_blank"
       rel="noopener">Alessandro Oncini</a>.<br> Se hai bisogno di un menù
       digitale super rapido, sicuro e leggero, contattami pure!
-    logo: images/icon_menu.png
+    logo: images/copertina.png
     has_tertiary_nav: false
   domain: 'https://menugenerico.netlify.app'
 taxonomies:
