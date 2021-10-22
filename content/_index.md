@@ -1007,7 +1007,7 @@ seo:
       value: Menù digitale
       keyName: property
     - name: 'og:description'
-      value: by Alessandro
+      value: by alessandsro
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
