@@ -1010,7 +1010,7 @@ seo:
       value: by Alessandro Oncini
       keyName: property
     - name: 'og:image'
-      value: images/icon-menu.png
+      value: images/icon_menu.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
