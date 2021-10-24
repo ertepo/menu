@@ -41,6 +41,7 @@ params:
     sectionPagesMenu: main
     anncmnt_content: |
       Annuncio
+    anncmnt_has_close: true
   footer:
     logo_alt: Logo Tre Botteghe
     has_primary_nav: true
