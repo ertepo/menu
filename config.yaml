@@ -37,7 +37,7 @@ params:
     secondary_nav_links:
       - label: secondi
         url: '/#primi'
-    has_anncmnt: false
+    has_anncmnt: true
     sectionPagesMenu: main
   footer:
     logo_alt: Logo Tre Botteghe
