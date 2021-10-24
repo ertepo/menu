@@ -18,6 +18,9 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        content: |+
+          content
+
       - title: Acqua San Pellegrino
         price: '2,50'
         subtitle: null
