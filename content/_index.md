@@ -17,6 +17,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/DOLCI.png
       - title: Acqua San Pellegrino
         price: '2,50'
         subtitle: null
