@@ -37,7 +37,7 @@ params:
     secondary_nav_links:
       - label: secondi
         url: '/#primi'
-    has_anncmnt: true
+    has_anncmnt: false
     sectionPagesMenu: main
     anncmnt_content: |
       Annuncio
