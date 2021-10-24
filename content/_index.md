@@ -7,7 +7,7 @@ sections:
     grid_items:
       - title: Acqua Panna
         price: '2,50'
-        subtitle: null
+        subtitle: subtitle
         title_align: left
         content_align: left
         actions: []
