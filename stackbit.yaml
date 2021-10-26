@@ -1574,7 +1574,7 @@ models:
           - venticinque
           - trentatre
           - quaranta
-          - fifty
+          - cinquanta
           - sixty
         default: fifty
         description: >-
