@@ -461,7 +461,7 @@ models:
       - type: list
         name: sections
         label: Sezioni
-        description: Page sections
+        description: Sezioni della pagina
         items:
           type: model
           models:
