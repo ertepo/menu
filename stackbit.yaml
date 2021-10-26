@@ -1573,7 +1573,7 @@ models:
         options:
           - label: twenty-five
             value: venticinque
-          - label: trentatre
+          - label: thirty-three
             value: trentatre
           - label: fourty
             value: fourty
