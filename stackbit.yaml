@@ -278,7 +278,7 @@ models:
             - action
   person:
     type: data
-    label: Person
+    label: Persone
     folder: team
     fields:
       - type: string
