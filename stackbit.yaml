@@ -460,7 +460,7 @@ models:
         required: true
       - type: list
         name: sections
-        label: Sections
+        label: Sezioni
         description: Page sections
         items:
           type: model
