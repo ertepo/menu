@@ -1500,7 +1500,7 @@ models:
         description: Il prezzo del piatto
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Sottotitolo
         description: The subtitle of the item displayed below the title
       - type: enum
         name: title_align
