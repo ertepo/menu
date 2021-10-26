@@ -1497,7 +1497,7 @@ models:
       - type: string
         name: price
         label: Prezzo
-        description: The price of the item
+        description: Il prezzo
       - type: string
         name: subtitle
         label: Subtitle
