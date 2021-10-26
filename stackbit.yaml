@@ -465,7 +465,6 @@ models:
         items:
           type: model
           models:
-            - features_section
             - grid_section
             - blog_feed_section
             - cta_section
