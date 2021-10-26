@@ -752,7 +752,7 @@ models:
         hidden: true
   grid_section:
     type: object
-    label: Grid section
+    label: Sezione a Griglia
     labelField: title
     fields:
       - type: string
