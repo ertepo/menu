@@ -1501,7 +1501,7 @@ models:
       - type: string
         name: subtitle
         label: Sottotitolo
-        description: The subtitle of the item displayed below the title
+        description: Sottotitolo del piatto inserito sotto al titolo
       - type: enum
         name: title_align
         label: Title, subtitle alignment
