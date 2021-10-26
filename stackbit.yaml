@@ -1580,7 +1580,7 @@ models:
           - label: fifty
             value: cinquanta
           - label: sixty
-            value: sixty
+            value: sessanta
         default: fifty
         description: >-
           Larghezza del contenitore immagine espressa in percentuale. Usata solo
