@@ -1573,7 +1573,7 @@ models:
         options:
           - venticinque
           - trentatre
-          - fourty
+          - quaranta
           - fifty
           - sixty
         default: fifty
