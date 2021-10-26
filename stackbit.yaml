@@ -466,7 +466,6 @@ models:
           type: model
           models:
             - grid_section
-            - cta_section
             - form_section
       - type: model
         name: seo
