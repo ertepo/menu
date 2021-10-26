@@ -1578,8 +1578,8 @@ models:
           - sixty
         default: fifty
         description: >-
-          The image container width as a percentage of the item width. Used only
-          when the image position is set to "left" or "right"
+          Larghezza del contenitore immagine espressa in percentuale. Usata solo
+          quando la posizione dell'immagine è impostata a "destra" o "sinistra".
       - type: enum
         name: image_align
         label: Image alignment
