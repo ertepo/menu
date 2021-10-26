@@ -456,7 +456,7 @@ models:
       - type: string
         name: title
         label: Titolo
-        description: The title of the page
+        description: Titolo della pagina
         required: true
       - type: list
         name: sections
