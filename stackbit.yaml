@@ -1493,7 +1493,7 @@ models:
       - type: string
         name: title
         label: Titolo
-        description: The title of the item
+        description: Nome del piatto
       - type: string
         name: price
         label: Prezzo
