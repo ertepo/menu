@@ -1578,7 +1578,7 @@ models:
           - label: fourty
             value: quaranta
           - label: fifty
-            value: fifty
+            value: cinquanta
           - label: sixty
             value: sixty
         default: fifty
