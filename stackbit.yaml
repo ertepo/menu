@@ -1571,16 +1571,11 @@ models:
         name: image_width
         label: Image container width
         options:
-          - label: twenty-five
-            value: venticinque
-          - label: thirty-three
-            value: trentatre
-          - label: fourty
-            value: quaranta
-          - label: fifty
-            value: cinquanta
-          - label: sixty
-            value: sessanta
+          - twenty-five
+          - thirty-three
+          - fourty
+          - fifty
+          - sixty
         default: fifty
         description: >-
           Larghezza del contenitore immagine espressa in percentuale. Usata solo
