@@ -466,6 +466,7 @@ models:
           type: model
           models:
             - grid_section
+            - blog_feed_section
       - type: model
         name: seo
         models:
