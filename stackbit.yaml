@@ -469,6 +469,7 @@ models:
             - blog_feed_section
             - cta_section
             - features_section
+            - hero_section
       - type: model
         name: seo
         models:
