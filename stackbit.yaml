@@ -455,7 +455,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Titolo
         description: The title of the page
         required: true
       - type: list
