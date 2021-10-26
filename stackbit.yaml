@@ -1498,6 +1498,7 @@ models:
         name: price
         label: Prezzo
         description: Il prezzo del piatto
+        default: x
       - type: string
         name: subtitle
         label: Sottotitolo
