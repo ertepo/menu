@@ -1571,7 +1571,7 @@ models:
         name: image_width
         label: Image container width
         options:
-          - twenty-five
+          - venticinque
           - thirty-three
           - fourty
           - fifty
