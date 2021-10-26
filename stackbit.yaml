@@ -1492,7 +1492,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Titolo
         description: The title of the item
       - type: string
         name: price
