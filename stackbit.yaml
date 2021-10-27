@@ -43,7 +43,7 @@ models:
             name: domain
             label: Domain
             description: >-
-              The domain of your site, including the protocol, e.g.
+              Il dominio del tuo sito, protocollo incluso
               https://mysite.com/
           - type: image
             name: favicon
