@@ -38,7 +38,6 @@ params:
       - label: secondi
         url: '/#primi'
     has_anncmnt: false
-    sectionPagesMenu: main
     anncmnt_content: |
       Annuncio
     anncmnt_has_close: true
