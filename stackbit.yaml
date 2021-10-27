@@ -56,7 +56,7 @@ models:
               - full-width
               - boxed
             default: full-width
-            description: The layout of the site
+            description: Layout del sito
             required: true
           - type: enum
             name: style
