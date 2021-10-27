@@ -44,7 +44,7 @@ models:
             label: Domain
             description: >-
               Il dominio del tuo sito, protocollo incluso
-              https://mysite.com/
+              https://iosito.com/
           - type: image
             name: favicon
             label: Favicon
